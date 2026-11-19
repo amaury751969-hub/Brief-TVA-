@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Fichiers temporaires propres au projet
+/tmp/
+*.tmp
+
+# Le journal de collecte fait partie des livrables du brief.
+!/collecte_vies.log
+
+# Ancien journal de travail : le journal officiel est à la racine.
+/Notebook/collecte_vies.log

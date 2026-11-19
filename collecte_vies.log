@@ -1,0 +1,836 @@
+2026-11-18 11:55:37,181 - INFO - Démarrage du script
+2026-11-18 11:55:37,186 - INFO - Nombre de candidats chargés : 6302
+2026-11-18 11:55:37,193 - INFO - Taille de l'échantillon : 3
+2026-11-18 11:55:37,193 - INFO - Résultats déjà enregistrés : 0
+2026-11-18 11:55:37,193 - INFO - Numéro à vérifier : FR19395773647
+2026-11-18 11:55:47,103 - INFO - Appel FR19395773647 — HTTP 200 — durée 8.91 secondes
+2026-11-18 11:55:47,107 - INFO - Résultat sauvegardé : FR19395773647 — statut invalide
+2026-11-18 11:55:47,108 - INFO - Numéro à vérifier : PL2171649458
+2026-11-18 11:55:48,353 - INFO - Appel PL2171649458 — HTTP 200 — durée 0.24 secondes
+2026-11-18 11:55:48,355 - INFO - Résultat sauvegardé : PL2171649458 — statut invalide
+2026-11-18 11:55:48,355 - INFO - Numéro à vérifier : LU48510555
+2026-11-18 11:55:49,567 - INFO - Appel LU48510555 — HTTP 200 — durée 0.21 secondes
+2026-11-18 11:55:49,569 - INFO - Résultat sauvegardé : LU48510555 — statut invalide
+2026-11-18 11:55:49,569 - INFO - Fin de la campagne — taille de l'échantillon : 3
+2026-11-18 11:57:24,149 - INFO - Démarrage du script
+2026-11-18 11:57:24,154 - INFO - Nombre de candidats chargés : 6302
+2026-11-18 11:57:24,162 - INFO - Taille de l'échantillon : 3
+2026-11-18 11:57:24,163 - INFO - Résultats déjà enregistrés : 3
+2026-11-18 11:57:24,163 - INFO - Appel sauté, numéro déjà enregistré : FR19395773647
+2026-11-18 11:57:24,163 - INFO - Appel sauté, numéro déjà enregistré : PL2171649458
+2026-11-18 11:57:24,163 - INFO - Appel sauté, numéro déjà enregistré : LU48510555
+2026-11-18 11:57:24,163 - INFO - Fin de la campagne — taille de l'échantillon : 3
+2026-11-18 11:58:36,345 - INFO - Démarrage du script
+2026-11-18 11:58:36,351 - INFO - Nombre de candidats chargés : 6302
+2026-11-18 11:58:36,354 - INFO - Taille de l'échantillon : 20
+2026-11-18 11:58:36,354 - INFO - Résultats déjà enregistrés : 3
+2026-11-18 11:58:36,355 - INFO - Appel sauté, numéro déjà enregistré : FR19395773647
+2026-11-18 11:58:36,355 - INFO - Appel sauté, numéro déjà enregistré : PL2171649458
+2026-11-18 11:58:36,355 - INFO - Appel sauté, numéro déjà enregistré : LU48510555
+2026-11-18 11:58:36,355 - INFO - Numéro à vérifier : PL5112134613
+2026-11-18 11:58:37,722 - INFO - Appel PL5112134613 — HTTP 200 — durée 0.37 secondes
+2026-11-18 11:58:37,725 - INFO - Résultat sauvegardé : PL5112134613 — statut invalide
+2026-11-18 11:58:37,725 - INFO - Numéro à vérifier : SE973432798501
+2026-11-18 11:58:39,795 - INFO - Appel SE973432798501 — HTTP 200 — durée 1.07 secondes
+2026-11-18 11:58:39,800 - INFO - Résultat sauvegardé : SE973432798501 — statut invalide
+2026-11-18 11:58:39,801 - INFO - Numéro à vérifier : LU30734528
+2026-11-18 11:58:41,515 - INFO - Appel LU30734528 — HTTP 200 — durée 0.71 secondes
+2026-11-18 11:58:41,520 - INFO - Résultat sauvegardé : LU30734528 — statut invalide
+2026-11-18 11:58:41,521 - INFO - Numéro à vérifier : SE361502911701
+2026-11-18 11:58:44,353 - INFO - Appel SE361502911701 — HTTP 200 — durée 1.83 secondes
+2026-11-18 11:58:44,355 - INFO - Résultat sauvegardé : SE361502911701 — statut invalide
+2026-11-18 11:58:44,356 - INFO - Numéro à vérifier : FR39696529558
+2026-11-18 11:58:45,463 - INFO - Appel FR39696529558 — HTTP 200 — durée 0.11 secondes
+2026-11-18 11:58:45,463 - WARNING - Numéro non tranché : FR39696529558 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 11:58:45,465 - INFO - Résultat sauvegardé : FR39696529558 — statut non_tranche
+2026-11-18 11:58:45,466 - INFO - Numéro à vérifier : BE1956065871
+2026-11-18 11:58:46,566 - INFO - Appel BE1956065871 — HTTP 200 — durée 0.10 secondes
+2026-11-18 11:58:46,566 - WARNING - Numéro non tranché : BE1956065871 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 11:58:46,568 - INFO - Résultat sauvegardé : BE1956065871 — statut non_tranche
+2026-11-18 11:58:46,568 - INFO - Numéro à vérifier : FI50108749
+2026-11-18 11:58:47,925 - INFO - Appel FI50108749 — HTTP 200 — durée 0.36 secondes
+2026-11-18 11:58:47,927 - INFO - Résultat sauvegardé : FI50108749 — statut invalide
+2026-11-18 11:58:47,928 - INFO - Numéro à vérifier : FI61051266
+2026-11-18 11:58:49,252 - INFO - Appel FI61051266 — HTTP 200 — durée 0.32 secondes
+2026-11-18 11:58:49,254 - INFO - Résultat sauvegardé : FI61051266 — statut invalide
+2026-11-18 11:58:49,254 - INFO - Numéro à vérifier : PT883211360
+2026-11-18 11:58:50,362 - INFO - Appel PT883211360 — HTTP 200 — durée 0.11 secondes
+2026-11-18 11:58:50,362 - WARNING - Numéro non tranché : PT883211360 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 11:58:50,367 - INFO - Résultat sauvegardé : PT883211360 — statut non_tranche
+2026-11-18 11:58:50,368 - INFO - Numéro à vérifier : BE0281374333
+2026-11-18 11:58:51,473 - INFO - Appel BE0281374333 — HTTP 200 — durée 0.10 secondes
+2026-11-18 11:58:51,474 - WARNING - Numéro non tranché : BE0281374333 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 11:58:51,476 - INFO - Résultat sauvegardé : BE0281374333 — statut non_tranche
+2026-11-18 11:58:51,476 - INFO - Numéro à vérifier : PL7894958624
+2026-11-18 11:58:52,717 - INFO - Appel PL7894958624 — HTTP 200 — durée 0.24 secondes
+2026-11-18 11:58:52,720 - INFO - Résultat sauvegardé : PL7894958624 — statut invalide
+2026-11-18 11:58:52,720 - INFO - Numéro à vérifier : FI82239305
+2026-11-18 11:58:54,002 - INFO - Appel FI82239305 — HTTP 200 — durée 0.28 secondes
+2026-11-18 11:58:54,005 - INFO - Résultat sauvegardé : FI82239305 — statut invalide
+2026-11-18 11:58:54,005 - INFO - Numéro à vérifier : SE695017159201
+2026-11-18 11:58:55,483 - INFO - Appel SE695017159201 — HTTP 200 — durée 0.48 secondes
+2026-11-18 11:58:55,485 - INFO - Résultat sauvegardé : SE695017159201 — statut invalide
+2026-11-18 11:58:55,485 - INFO - Numéro à vérifier : LU64028115
+2026-11-18 11:58:56,681 - INFO - Appel LU64028115 — HTTP 200 — durée 0.20 secondes
+2026-11-18 11:58:56,684 - INFO - Résultat sauvegardé : LU64028115 — statut invalide
+2026-11-18 11:58:56,684 - INFO - Numéro à vérifier : DK50549151
+2026-11-18 11:59:07,666 - INFO - Appel DK50549151 — HTTP 200 — durée 9.98 secondes
+2026-11-18 11:59:07,669 - INFO - Résultat sauvegardé : DK50549151 — statut valide
+2026-11-18 11:59:07,670 - INFO - Numéro à vérifier : BE1771187534
+2026-11-18 11:59:13,600 - INFO - Appel BE1771187534 — HTTP 200 — durée 4.93 secondes
+2026-11-18 11:59:13,604 - INFO - Résultat sauvegardé : BE1771187534 — statut invalide
+2026-11-18 11:59:13,605 - INFO - Numéro à vérifier : DK54597231
+2026-11-18 11:59:26,273 - INFO - Appel DK54597231 — HTTP 200 — durée 11.67 secondes
+2026-11-18 11:59:26,276 - INFO - Résultat sauvegardé : DK54597231 — statut invalide
+2026-11-18 11:59:26,276 - INFO - Fin de la campagne — taille de l'échantillon : 20
+2026-11-18 11:59:59,092 - INFO - Démarrage du script
+2026-11-18 11:59:59,097 - INFO - Nombre de candidats chargés : 6302
+2026-11-18 11:59:59,100 - INFO - Taille de l'échantillon : 20
+2026-11-18 11:59:59,116 - INFO - Résultats déjà enregistrés : 20
+2026-11-18 11:59:59,116 - INFO - Appel sauté, numéro déjà enregistré : FR19395773647
+2026-11-18 11:59:59,116 - INFO - Appel sauté, numéro déjà enregistré : PL2171649458
+2026-11-18 11:59:59,116 - INFO - Appel sauté, numéro déjà enregistré : LU48510555
+2026-11-18 11:59:59,116 - INFO - Appel sauté, numéro déjà enregistré : PL5112134613
+2026-11-18 11:59:59,116 - INFO - Appel sauté, numéro déjà enregistré : SE973432798501
+2026-11-18 11:59:59,116 - INFO - Appel sauté, numéro déjà enregistré : LU30734528
+2026-11-18 11:59:59,116 - INFO - Appel sauté, numéro déjà enregistré : SE361502911701
+2026-11-18 11:59:59,116 - INFO - Appel sauté, numéro déjà enregistré : FR39696529558
+2026-11-18 11:59:59,116 - INFO - Appel sauté, numéro déjà enregistré : BE1956065871
+2026-11-18 11:59:59,116 - INFO - Appel sauté, numéro déjà enregistré : FI50108749
+2026-11-18 11:59:59,117 - INFO - Appel sauté, numéro déjà enregistré : FI61051266
+2026-11-18 11:59:59,117 - INFO - Appel sauté, numéro déjà enregistré : PT883211360
+2026-11-18 11:59:59,117 - INFO - Appel sauté, numéro déjà enregistré : BE0281374333
+2026-11-18 11:59:59,117 - INFO - Appel sauté, numéro déjà enregistré : PL7894958624
+2026-11-18 11:59:59,118 - INFO - Appel sauté, numéro déjà enregistré : FI82239305
+2026-11-18 11:59:59,118 - INFO - Appel sauté, numéro déjà enregistré : SE695017159201
+2026-11-18 11:59:59,119 - INFO - Appel sauté, numéro déjà enregistré : LU64028115
+2026-11-18 11:59:59,119 - INFO - Appel sauté, numéro déjà enregistré : DK50549151
+2026-11-18 11:59:59,119 - INFO - Appel sauté, numéro déjà enregistré : BE1771187534
+2026-11-18 11:59:59,119 - INFO - Appel sauté, numéro déjà enregistré : DK54597231
+2026-11-18 11:59:59,119 - INFO - Fin de la campagne — taille de l'échantillon : 20
+2026-11-18 12:03:19,314 - INFO - Démarrage du script
+2026-11-18 12:03:19,320 - INFO - Nombre de candidats chargés : 6302
+2026-11-18 12:03:19,323 - INFO - Taille de l'échantillon : 30
+2026-11-18 12:03:19,324 - INFO - Résultats déjà enregistrés : 20
+2026-11-18 12:03:19,324 - INFO - Appel sauté, numéro déjà enregistré : FR19395773647
+2026-11-18 12:03:19,324 - INFO - Appel sauté, numéro déjà enregistré : PL2171649458
+2026-11-18 12:03:19,324 - INFO - Appel sauté, numéro déjà enregistré : LU48510555
+2026-11-18 12:03:19,324 - INFO - Appel sauté, numéro déjà enregistré : PL5112134613
+2026-11-18 12:03:19,324 - INFO - Appel sauté, numéro déjà enregistré : SE973432798501
+2026-11-18 12:03:19,324 - INFO - Appel sauté, numéro déjà enregistré : LU30734528
+2026-11-18 12:03:19,324 - INFO - Appel sauté, numéro déjà enregistré : SE361502911701
+2026-11-18 12:03:19,324 - INFO - Appel sauté, numéro déjà enregistré : FR39696529558
+2026-11-18 12:03:19,324 - INFO - Appel sauté, numéro déjà enregistré : BE1956065871
+2026-11-18 12:03:19,324 - INFO - Appel sauté, numéro déjà enregistré : FI50108749
+2026-11-18 12:03:19,324 - INFO - Appel sauté, numéro déjà enregistré : FI61051266
+2026-11-18 12:03:19,325 - INFO - Appel sauté, numéro déjà enregistré : PT883211360
+2026-11-18 12:03:19,325 - INFO - Appel sauté, numéro déjà enregistré : BE0281374333
+2026-11-18 12:03:19,325 - INFO - Appel sauté, numéro déjà enregistré : PL7894958624
+2026-11-18 12:03:19,325 - INFO - Appel sauté, numéro déjà enregistré : FI82239305
+2026-11-18 12:03:19,325 - INFO - Appel sauté, numéro déjà enregistré : SE695017159201
+2026-11-18 12:03:19,325 - INFO - Appel sauté, numéro déjà enregistré : LU64028115
+2026-11-18 12:03:19,325 - INFO - Appel sauté, numéro déjà enregistré : DK50549151
+2026-11-18 12:03:19,325 - INFO - Appel sauté, numéro déjà enregistré : BE1771187534
+2026-11-18 12:03:19,325 - INFO - Appel sauté, numéro déjà enregistré : DK54597231
+2026-11-18 12:03:19,325 - INFO - Numéro à vérifier : DK69380468
+2026-11-18 12:03:29,276 - INFO - Appel DK69380468 — HTTP 200 — durée 8.95 secondes
+2026-11-18 12:03:29,283 - INFO - Résultat sauvegardé : DK69380468 — statut invalide
+2026-11-18 12:03:29,283 - INFO - Numéro à vérifier : IT54902317095
+2026-11-18 12:03:30,429 - INFO - Appel IT54902317095 — HTTP 200 — durée 0.14 secondes
+2026-11-18 12:03:30,435 - INFO - Résultat sauvegardé : IT54902317095 — statut invalide
+2026-11-18 12:03:30,435 - INFO - Numéro à vérifier : NL626524568B32
+2026-11-18 12:03:31,570 - INFO - Appel NL626524568B32 — HTTP 200 — durée 0.13 secondes
+2026-11-18 12:03:31,570 - WARNING - Numéro non tranché : NL626524568B32 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:03:31,573 - INFO - Résultat sauvegardé : NL626524568B32 — statut non_tranche
+2026-11-18 12:03:31,573 - INFO - Numéro à vérifier : LU17590238
+2026-11-18 12:03:32,770 - INFO - Appel LU17590238 — HTTP 200 — durée 0.20 secondes
+2026-11-18 12:03:32,773 - INFO - Résultat sauvegardé : LU17590238 — statut invalide
+2026-11-18 12:03:32,773 - INFO - Numéro à vérifier : IT63351136831
+2026-11-18 12:03:33,879 - INFO - Appel IT63351136831 — HTTP 200 — durée 0.11 secondes
+2026-11-18 12:03:33,881 - INFO - Résultat sauvegardé : IT63351136831 — statut invalide
+2026-11-18 12:03:33,882 - INFO - Numéro à vérifier : FR76400973060
+2026-11-18 12:03:42,971 - INFO - Appel FR76400973060 — HTTP 200 — durée 8.09 secondes
+2026-11-18 12:03:42,974 - INFO - Résultat sauvegardé : FR76400973060 — statut invalide
+2026-11-18 12:03:42,974 - INFO - Numéro à vérifier : LU38943762
+2026-11-18 12:03:44,186 - INFO - Appel LU38943762 — HTTP 200 — durée 0.21 secondes
+2026-11-18 12:03:44,188 - INFO - Résultat sauvegardé : LU38943762 — statut invalide
+2026-11-18 12:03:44,188 - INFO - Numéro à vérifier : IT69346559581
+2026-11-18 12:03:45,374 - INFO - Appel IT69346559581 — HTTP 200 — durée 0.18 secondes
+2026-11-18 12:03:45,376 - INFO - Résultat sauvegardé : IT69346559581 — statut invalide
+2026-11-18 12:03:45,376 - INFO - Numéro à vérifier : PL5395192404
+2026-11-18 12:03:46,759 - INFO - Appel PL5395192404 — HTTP 200 — durée 0.38 secondes
+2026-11-18 12:03:46,764 - INFO - Résultat sauvegardé : PL5395192404 — statut invalide
+2026-11-18 12:03:46,764 - INFO - Numéro à vérifier : IT81506262153
+2026-11-18 12:03:48,065 - INFO - Appel IT81506262153 — HTTP 200 — durée 0.30 secondes
+2026-11-18 12:03:48,075 - INFO - Résultat sauvegardé : IT81506262153 — statut invalide
+2026-11-18 12:03:48,076 - INFO - Fin de la campagne — taille de l'échantillon : 30
+2026-11-18 12:05:18,928 - INFO - Démarrage du script
+2026-11-18 12:05:18,933 - INFO - Nombre de candidats chargés : 6302
+2026-11-18 12:05:18,936 - INFO - Taille de l'échantillon : 40
+2026-11-18 12:05:18,937 - INFO - Résultats déjà enregistrés : 30
+2026-11-18 12:05:18,938 - INFO - Appel sauté, numéro déjà enregistré : FR19395773647
+2026-11-18 12:05:18,938 - INFO - Appel sauté, numéro déjà enregistré : PL2171649458
+2026-11-18 12:05:18,938 - INFO - Appel sauté, numéro déjà enregistré : LU48510555
+2026-11-18 12:05:18,938 - INFO - Appel sauté, numéro déjà enregistré : PL5112134613
+2026-11-18 12:05:18,938 - INFO - Appel sauté, numéro déjà enregistré : SE973432798501
+2026-11-18 12:05:18,938 - INFO - Appel sauté, numéro déjà enregistré : LU30734528
+2026-11-18 12:05:18,938 - INFO - Appel sauté, numéro déjà enregistré : SE361502911701
+2026-11-18 12:05:18,938 - INFO - Appel sauté, numéro déjà enregistré : FR39696529558
+2026-11-18 12:05:18,939 - INFO - Appel sauté, numéro déjà enregistré : BE1956065871
+2026-11-18 12:05:18,940 - INFO - Appel sauté, numéro déjà enregistré : FI50108749
+2026-11-18 12:05:18,940 - INFO - Appel sauté, numéro déjà enregistré : FI61051266
+2026-11-18 12:05:18,940 - INFO - Appel sauté, numéro déjà enregistré : PT883211360
+2026-11-18 12:05:18,941 - INFO - Appel sauté, numéro déjà enregistré : BE0281374333
+2026-11-18 12:05:18,941 - INFO - Appel sauté, numéro déjà enregistré : PL7894958624
+2026-11-18 12:05:18,941 - INFO - Appel sauté, numéro déjà enregistré : FI82239305
+2026-11-18 12:05:18,941 - INFO - Appel sauté, numéro déjà enregistré : SE695017159201
+2026-11-18 12:05:18,941 - INFO - Appel sauté, numéro déjà enregistré : LU64028115
+2026-11-18 12:05:18,941 - INFO - Appel sauté, numéro déjà enregistré : DK50549151
+2026-11-18 12:05:18,941 - INFO - Appel sauté, numéro déjà enregistré : BE1771187534
+2026-11-18 12:05:18,941 - INFO - Appel sauté, numéro déjà enregistré : DK54597231
+2026-11-18 12:05:18,941 - INFO - Appel sauté, numéro déjà enregistré : DK69380468
+2026-11-18 12:05:18,941 - INFO - Appel sauté, numéro déjà enregistré : IT54902317095
+2026-11-18 12:05:18,941 - INFO - Appel sauté, numéro déjà enregistré : NL626524568B32
+2026-11-18 12:05:18,942 - INFO - Appel sauté, numéro déjà enregistré : LU17590238
+2026-11-18 12:05:18,942 - INFO - Appel sauté, numéro déjà enregistré : IT63351136831
+2026-11-18 12:05:18,942 - INFO - Appel sauté, numéro déjà enregistré : FR76400973060
+2026-11-18 12:05:18,942 - INFO - Appel sauté, numéro déjà enregistré : LU38943762
+2026-11-18 12:05:18,942 - INFO - Appel sauté, numéro déjà enregistré : IT69346559581
+2026-11-18 12:05:18,942 - INFO - Appel sauté, numéro déjà enregistré : PL5395192404
+2026-11-18 12:05:18,942 - INFO - Appel sauté, numéro déjà enregistré : IT81506262153
+2026-11-18 12:05:18,942 - INFO - Numéro à vérifier : FI88426750
+2026-11-18 12:06:32,944 - INFO - Démarrage du script
+2026-11-18 12:06:32,963 - INFO - Nombre de candidats chargés : 6302
+2026-11-18 12:06:32,977 - INFO - Taille de l'échantillon : 40
+2026-11-18 12:06:32,980 - INFO - Résultats déjà enregistrés : 30
+2026-11-18 12:06:32,980 - INFO - Appel sauté, numéro déjà enregistré : FR19395773647
+2026-11-18 12:06:32,980 - INFO - Appel sauté, numéro déjà enregistré : PL2171649458
+2026-11-18 12:06:32,980 - INFO - Appel sauté, numéro déjà enregistré : LU48510555
+2026-11-18 12:06:32,981 - INFO - Appel sauté, numéro déjà enregistré : PL5112134613
+2026-11-18 12:06:32,981 - INFO - Appel sauté, numéro déjà enregistré : SE973432798501
+2026-11-18 12:06:32,981 - INFO - Appel sauté, numéro déjà enregistré : LU30734528
+2026-11-18 12:06:32,981 - INFO - Appel sauté, numéro déjà enregistré : SE361502911701
+2026-11-18 12:06:32,981 - INFO - Appel sauté, numéro déjà enregistré : FR39696529558
+2026-11-18 12:06:32,981 - INFO - Appel sauté, numéro déjà enregistré : BE1956065871
+2026-11-18 12:06:32,981 - INFO - Appel sauté, numéro déjà enregistré : FI50108749
+2026-11-18 12:06:32,981 - INFO - Appel sauté, numéro déjà enregistré : FI61051266
+2026-11-18 12:06:32,981 - INFO - Appel sauté, numéro déjà enregistré : PT883211360
+2026-11-18 12:06:32,981 - INFO - Appel sauté, numéro déjà enregistré : BE0281374333
+2026-11-18 12:06:32,981 - INFO - Appel sauté, numéro déjà enregistré : PL7894958624
+2026-11-18 12:06:32,981 - INFO - Appel sauté, numéro déjà enregistré : FI82239305
+2026-11-18 12:06:32,982 - INFO - Appel sauté, numéro déjà enregistré : SE695017159201
+2026-11-18 12:06:32,982 - INFO - Appel sauté, numéro déjà enregistré : LU64028115
+2026-11-18 12:06:32,982 - INFO - Appel sauté, numéro déjà enregistré : DK50549151
+2026-11-18 12:06:32,982 - INFO - Appel sauté, numéro déjà enregistré : BE1771187534
+2026-11-18 12:06:32,982 - INFO - Appel sauté, numéro déjà enregistré : DK54597231
+2026-11-18 12:06:32,982 - INFO - Appel sauté, numéro déjà enregistré : DK69380468
+2026-11-18 12:06:32,983 - INFO - Appel sauté, numéro déjà enregistré : IT54902317095
+2026-11-18 12:06:32,985 - INFO - Appel sauté, numéro déjà enregistré : NL626524568B32
+2026-11-18 12:06:32,985 - INFO - Appel sauté, numéro déjà enregistré : LU17590238
+2026-11-18 12:06:32,985 - INFO - Appel sauté, numéro déjà enregistré : IT63351136831
+2026-11-18 12:06:32,985 - INFO - Appel sauté, numéro déjà enregistré : FR76400973060
+2026-11-18 12:06:32,985 - INFO - Appel sauté, numéro déjà enregistré : LU38943762
+2026-11-18 12:06:32,985 - INFO - Appel sauté, numéro déjà enregistré : IT69346559581
+2026-11-18 12:06:32,986 - INFO - Appel sauté, numéro déjà enregistré : PL5395192404
+2026-11-18 12:06:32,986 - INFO - Appel sauté, numéro déjà enregistré : IT81506262153
+2026-11-18 12:06:32,986 - INFO - Numéro à vérifier : FI88426750
+2026-11-18 12:06:34,422 - INFO - Appel FI88426750 — HTTP 200 — durée 0.44 secondes
+2026-11-18 12:06:34,426 - INFO - Résultat sauvegardé : FI88426750 — statut invalide
+2026-11-18 12:06:34,426 - INFO - Numéro à vérifier : DK84588296
+2026-11-18 12:06:46,900 - INFO - Appel DK84588296 — HTTP 200 — durée 11.47 secondes
+2026-11-18 12:06:46,903 - INFO - Résultat sauvegardé : DK84588296 — statut invalide
+2026-11-18 12:06:46,903 - INFO - Numéro à vérifier : LU17951805
+2026-11-18 12:06:48,222 - INFO - Appel LU17951805 — HTTP 200 — durée 0.32 secondes
+2026-11-18 12:06:48,225 - INFO - Résultat sauvegardé : LU17951805 — statut invalide
+2026-11-18 12:06:48,225 - INFO - Numéro à vérifier : BE0594168649
+2026-11-18 12:06:49,378 - INFO - Appel BE0594168649 — HTTP 200 — durée 0.15 secondes
+2026-11-18 12:06:49,378 - WARNING - Numéro non tranché : BE0594168649 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:06:49,382 - INFO - Résultat sauvegardé : BE0594168649 — statut non_tranche
+2026-11-18 12:06:49,382 - INFO - Numéro à vérifier : SE576396678401
+2026-11-18 12:06:51,108 - INFO - Appel SE576396678401 — HTTP 200 — durée 0.73 secondes
+2026-11-18 12:06:51,111 - INFO - Résultat sauvegardé : SE576396678401 — statut invalide
+2026-11-18 12:06:51,111 - INFO - Numéro à vérifier : BE0626511221
+2026-11-18 12:06:56,138 - INFO - Appel BE0626511221 — HTTP 200 — durée 4.03 secondes
+2026-11-18 12:06:56,141 - INFO - Résultat sauvegardé : BE0626511221 — statut invalide
+2026-11-18 12:06:56,141 - INFO - Numéro à vérifier : PT148707246
+2026-11-18 12:06:57,424 - INFO - Appel PT148707246 — HTTP 200 — durée 0.28 secondes
+2026-11-18 12:06:57,426 - INFO - Résultat sauvegardé : PT148707246 — statut invalide
+2026-11-18 12:06:57,426 - INFO - Numéro à vérifier : FR17885355506
+2026-11-18 12:06:58,536 - INFO - Appel FR17885355506 — HTTP 200 — durée 0.11 secondes
+2026-11-18 12:06:58,536 - WARNING - Numéro non tranché : FR17885355506 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:06:58,539 - INFO - Résultat sauvegardé : FR17885355506 — statut non_tranche
+2026-11-18 12:06:58,539 - INFO - Numéro à vérifier : BE1734280717
+2026-11-18 12:07:03,440 - INFO - Appel BE1734280717 — HTTP 200 — durée 3.90 secondes
+2026-11-18 12:07:03,443 - INFO - Résultat sauvegardé : BE1734280717 — statut invalide
+2026-11-18 12:07:03,443 - INFO - Numéro à vérifier : PL2920985142
+2026-11-18 12:07:04,745 - INFO - Appel PL2920985142 — HTTP 200 — durée 0.30 secondes
+2026-11-18 12:07:04,748 - INFO - Résultat sauvegardé : PL2920985142 — statut invalide
+2026-11-18 12:07:04,748 - INFO - Fin de la campagne — taille de l'échantillon : 40
+2026-11-18 12:09:12,798 - INFO - Démarrage du script
+2026-11-18 12:09:12,805 - INFO - Nombre de candidats chargés : 6302
+2026-11-18 12:09:12,808 - INFO - Taille de l'échantillon : 200
+2026-11-18 12:09:12,810 - INFO - Résultats déjà enregistrés : 40
+2026-11-18 12:09:12,810 - INFO - Appel sauté, numéro déjà enregistré : FR19395773647
+2026-11-18 12:09:12,811 - INFO - Appel sauté, numéro déjà enregistré : PL2171649458
+2026-11-18 12:09:12,811 - INFO - Appel sauté, numéro déjà enregistré : LU48510555
+2026-11-18 12:09:12,811 - INFO - Appel sauté, numéro déjà enregistré : PL5112134613
+2026-11-18 12:09:12,811 - INFO - Appel sauté, numéro déjà enregistré : SE973432798501
+2026-11-18 12:09:12,811 - INFO - Appel sauté, numéro déjà enregistré : LU30734528
+2026-11-18 12:09:12,811 - INFO - Appel sauté, numéro déjà enregistré : SE361502911701
+2026-11-18 12:09:12,812 - INFO - Appel sauté, numéro déjà enregistré : FR39696529558
+2026-11-18 12:09:12,812 - INFO - Appel sauté, numéro déjà enregistré : BE1956065871
+2026-11-18 12:09:12,812 - INFO - Appel sauté, numéro déjà enregistré : FI50108749
+2026-11-18 12:09:12,812 - INFO - Appel sauté, numéro déjà enregistré : FI61051266
+2026-11-18 12:09:12,812 - INFO - Appel sauté, numéro déjà enregistré : PT883211360
+2026-11-18 12:09:12,812 - INFO - Appel sauté, numéro déjà enregistré : BE0281374333
+2026-11-18 12:09:12,812 - INFO - Appel sauté, numéro déjà enregistré : PL7894958624
+2026-11-18 12:09:12,812 - INFO - Appel sauté, numéro déjà enregistré : FI82239305
+2026-11-18 12:09:12,813 - INFO - Appel sauté, numéro déjà enregistré : SE695017159201
+2026-11-18 12:09:12,813 - INFO - Appel sauté, numéro déjà enregistré : LU64028115
+2026-11-18 12:09:12,813 - INFO - Appel sauté, numéro déjà enregistré : DK50549151
+2026-11-18 12:09:12,813 - INFO - Appel sauté, numéro déjà enregistré : BE1771187534
+2026-11-18 12:09:12,813 - INFO - Appel sauté, numéro déjà enregistré : DK54597231
+2026-11-18 12:09:12,813 - INFO - Appel sauté, numéro déjà enregistré : DK69380468
+2026-11-18 12:09:12,813 - INFO - Appel sauté, numéro déjà enregistré : IT54902317095
+2026-11-18 12:09:12,813 - INFO - Appel sauté, numéro déjà enregistré : NL626524568B32
+2026-11-18 12:09:12,814 - INFO - Appel sauté, numéro déjà enregistré : LU17590238
+2026-11-18 12:09:12,815 - INFO - Appel sauté, numéro déjà enregistré : IT63351136831
+2026-11-18 12:09:12,815 - INFO - Appel sauté, numéro déjà enregistré : FR76400973060
+2026-11-18 12:09:12,815 - INFO - Appel sauté, numéro déjà enregistré : LU38943762
+2026-11-18 12:09:12,815 - INFO - Appel sauté, numéro déjà enregistré : IT69346559581
+2026-11-18 12:09:12,815 - INFO - Appel sauté, numéro déjà enregistré : PL5395192404
+2026-11-18 12:09:12,815 - INFO - Appel sauté, numéro déjà enregistré : IT81506262153
+2026-11-18 12:09:12,815 - INFO - Appel sauté, numéro déjà enregistré : FI88426750
+2026-11-18 12:09:12,815 - INFO - Appel sauté, numéro déjà enregistré : DK84588296
+2026-11-18 12:09:12,815 - INFO - Appel sauté, numéro déjà enregistré : LU17951805
+2026-11-18 12:09:12,816 - INFO - Appel sauté, numéro déjà enregistré : BE0594168649
+2026-11-18 12:09:12,816 - INFO - Appel sauté, numéro déjà enregistré : SE576396678401
+2026-11-18 12:09:12,816 - INFO - Appel sauté, numéro déjà enregistré : BE0626511221
+2026-11-18 12:09:12,816 - INFO - Appel sauté, numéro déjà enregistré : PT148707246
+2026-11-18 12:09:12,816 - INFO - Appel sauté, numéro déjà enregistré : FR17885355506
+2026-11-18 12:09:12,816 - INFO - Appel sauté, numéro déjà enregistré : BE1734280717
+2026-11-18 12:09:12,816 - INFO - Appel sauté, numéro déjà enregistré : PL2920985142
+2026-11-18 12:09:12,816 - INFO - Numéro à vérifier : NL985519332B34
+2026-11-18 12:09:13,978 - INFO - Appel NL985519332B34 — HTTP 200 — durée 0.16 secondes
+2026-11-18 12:09:13,978 - WARNING - Numéro non tranché : NL985519332B34 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:09:13,981 - INFO - Résultat sauvegardé : NL985519332B34 — statut non_tranche
+2026-11-18 12:09:13,981 - INFO - Numéro à vérifier : PT659351374
+2026-11-18 12:09:15,312 - INFO - Appel PT659351374 — HTTP 200 — durée 0.33 secondes
+2026-11-18 12:09:15,315 - INFO - Résultat sauvegardé : PT659351374 — statut invalide
+2026-11-18 12:09:15,315 - INFO - Numéro à vérifier : DK72344081
+2026-11-18 12:09:29,446 - INFO - Appel DK72344081 — HTTP 200 — durée 13.13 secondes
+2026-11-18 12:09:29,449 - INFO - Résultat sauvegardé : DK72344081 — statut invalide
+2026-11-18 12:09:29,449 - INFO - Numéro à vérifier : FR18251385978
+2026-11-18 12:09:30,609 - INFO - Appel FR18251385978 — HTTP 200 — durée 0.16 secondes
+2026-11-18 12:09:30,609 - WARNING - Numéro non tranché : FR18251385978 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:09:30,612 - INFO - Résultat sauvegardé : FR18251385978 — statut non_tranche
+2026-11-18 12:09:30,612 - INFO - Numéro à vérifier : DK42075442
+2026-11-18 12:09:46,463 - INFO - Appel DK42075442 — HTTP 200 — durée 14.85 secondes
+2026-11-18 12:09:46,468 - INFO - Résultat sauvegardé : DK42075442 — statut valide
+2026-11-18 12:09:46,468 - INFO - Numéro à vérifier : SE410585080601
+2026-11-18 12:09:47,904 - INFO - Appel SE410585080601 — HTTP 200 — durée 0.44 secondes
+2026-11-18 12:09:47,907 - INFO - Résultat sauvegardé : SE410585080601 — statut invalide
+2026-11-18 12:09:47,907 - INFO - Numéro à vérifier : LU80155319
+2026-11-18 12:09:49,113 - INFO - Appel LU80155319 — HTTP 200 — durée 0.21 secondes
+2026-11-18 12:09:49,116 - INFO - Résultat sauvegardé : LU80155319 — statut invalide
+2026-11-18 12:09:49,116 - INFO - Numéro à vérifier : FR63613454401
+2026-11-18 12:09:58,550 - INFO - Appel FR63613454401 — HTTP 200 — durée 8.43 secondes
+2026-11-18 12:09:58,555 - INFO - Résultat sauvegardé : FR63613454401 — statut invalide
+2026-11-18 12:09:58,555 - INFO - Numéro à vérifier : IT93554743869
+2026-11-18 12:09:59,720 - INFO - Appel IT93554743869 — HTTP 200 — durée 0.16 secondes
+2026-11-18 12:09:59,723 - INFO - Résultat sauvegardé : IT93554743869 — statut invalide
+2026-11-18 12:09:59,723 - INFO - Numéro à vérifier : LU62173671
+2026-11-18 12:10:00,973 - INFO - Appel LU62173671 — HTTP 200 — durée 0.25 secondes
+2026-11-18 12:10:00,976 - INFO - Résultat sauvegardé : LU62173671 — statut invalide
+2026-11-18 12:10:00,976 - INFO - Numéro à vérifier : PT442624530
+2026-11-18 12:10:02,336 - INFO - Appel PT442624530 — HTTP 200 — durée 0.36 secondes
+2026-11-18 12:10:02,339 - INFO - Résultat sauvegardé : PT442624530 — statut invalide
+2026-11-18 12:10:02,339 - INFO - Numéro à vérifier : PL7350084969
+2026-11-18 12:10:03,473 - INFO - Appel PL7350084969 — HTTP 200 — durée 0.13 secondes
+2026-11-18 12:10:03,473 - WARNING - Numéro non tranché : PL7350084969 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:10:03,476 - INFO - Résultat sauvegardé : PL7350084969 — statut non_tranche
+2026-11-18 12:10:03,476 - INFO - Numéro à vérifier : PL4483301111
+2026-11-18 12:10:04,721 - INFO - Appel PL4483301111 — HTTP 200 — durée 0.24 secondes
+2026-11-18 12:10:04,725 - INFO - Résultat sauvegardé : PL4483301111 — statut invalide
+2026-11-18 12:10:04,725 - INFO - Numéro à vérifier : BE1574150048
+2026-11-18 12:10:06,422 - INFO - Appel BE1574150048 — HTTP 200 — durée 0.70 secondes
+2026-11-18 12:10:06,422 - WARNING - Numéro non tranché : BE1574150048 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:10:06,430 - INFO - Résultat sauvegardé : BE1574150048 — statut non_tranche
+2026-11-18 12:10:06,431 - INFO - Numéro à vérifier : FR49198369636
+2026-11-18 12:10:07,775 - INFO - Appel FR49198369636 — HTTP 200 — durée 0.34 secondes
+2026-11-18 12:10:07,775 - WARNING - Numéro non tranché : FR49198369636 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:10:07,781 - INFO - Résultat sauvegardé : FR49198369636 — statut non_tranche
+2026-11-18 12:10:07,782 - INFO - Numéro à vérifier : BE0906317223
+2026-11-18 12:10:13,387 - INFO - Appel BE0906317223 — HTTP 200 — durée 4.61 secondes
+2026-11-18 12:10:13,391 - INFO - Résultat sauvegardé : BE0906317223 — statut invalide
+2026-11-18 12:10:13,391 - INFO - Numéro à vérifier : LU60316209
+2026-11-18 12:10:14,632 - INFO - Appel LU60316209 — HTTP 200 — durée 0.24 secondes
+2026-11-18 12:10:14,635 - INFO - Résultat sauvegardé : LU60316209 — statut invalide
+2026-11-18 12:10:14,635 - INFO - Numéro à vérifier : NL422642526B24
+2026-11-18 12:10:15,779 - INFO - Appel NL422642526B24 — HTTP 200 — durée 0.14 secondes
+2026-11-18 12:10:15,779 - WARNING - Numéro non tranché : NL422642526B24 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:10:15,782 - INFO - Résultat sauvegardé : NL422642526B24 — statut non_tranche
+2026-11-18 12:10:15,782 - INFO - Numéro à vérifier : LU45692386
+2026-11-18 12:10:17,015 - INFO - Appel LU45692386 — HTTP 200 — durée 0.23 secondes
+2026-11-18 12:10:17,019 - INFO - Résultat sauvegardé : LU45692386 — statut invalide
+2026-11-18 12:10:17,019 - INFO - Numéro à vérifier : LU66660483
+2026-11-18 12:10:18,254 - INFO - Appel LU66660483 — HTTP 200 — durée 0.24 secondes
+2026-11-18 12:10:18,258 - INFO - Résultat sauvegardé : LU66660483 — statut invalide
+2026-11-18 12:10:18,258 - INFO - Numéro à vérifier : NL499260958B52
+2026-11-18 12:10:19,392 - INFO - Appel NL499260958B52 — HTTP 200 — durée 0.13 secondes
+2026-11-18 12:10:19,392 - WARNING - Numéro non tranché : NL499260958B52 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:10:19,395 - INFO - Résultat sauvegardé : NL499260958B52 — statut non_tranche
+2026-11-18 12:10:19,395 - INFO - Numéro à vérifier : BE0804675178
+2026-11-18 12:10:20,529 - INFO - Appel BE0804675178 — HTTP 200 — durée 0.13 secondes
+2026-11-18 12:10:20,529 - WARNING - Numéro non tranché : BE0804675178 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:10:20,532 - INFO - Résultat sauvegardé : BE0804675178 — statut non_tranche
+2026-11-18 12:10:20,532 - INFO - Numéro à vérifier : SE113039722501
+2026-11-18 12:10:22,094 - INFO - Appel SE113039722501 — HTTP 200 — durée 0.56 secondes
+2026-11-18 12:10:22,098 - INFO - Résultat sauvegardé : SE113039722501 — statut invalide
+2026-11-18 12:10:22,098 - INFO - Numéro à vérifier : FR29127638070
+2026-11-18 12:10:23,235 - INFO - Appel FR29127638070 — HTTP 200 — durée 0.14 secondes
+2026-11-18 12:10:23,236 - WARNING - Numéro non tranché : FR29127638070 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:10:23,239 - INFO - Résultat sauvegardé : FR29127638070 — statut non_tranche
+2026-11-18 12:10:23,239 - INFO - Numéro à vérifier : SE517079230201
+2026-11-18 12:10:24,644 - INFO - Appel SE517079230201 — HTTP 200 — durée 0.40 secondes
+2026-11-18 12:10:24,655 - INFO - Résultat sauvegardé : SE517079230201 — statut invalide
+2026-11-18 12:10:24,655 - INFO - Numéro à vérifier : SE684718505201
+2026-11-18 12:10:26,032 - INFO - Appel SE684718505201 — HTTP 200 — durée 0.38 secondes
+2026-11-18 12:10:26,036 - INFO - Résultat sauvegardé : SE684718505201 — statut invalide
+2026-11-18 12:10:26,036 - INFO - Numéro à vérifier : NL337703371B32
+2026-11-18 12:10:27,210 - INFO - Appel NL337703371B32 — HTTP 200 — durée 0.17 secondes
+2026-11-18 12:10:27,210 - WARNING - Numéro non tranché : NL337703371B32 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:10:27,215 - INFO - Résultat sauvegardé : NL337703371B32 — statut non_tranche
+2026-11-18 12:10:27,216 - INFO - Numéro à vérifier : IT75394131108
+2026-11-18 12:10:28,383 - INFO - Appel IT75394131108 — HTTP 200 — durée 0.17 secondes
+2026-11-18 12:10:28,387 - INFO - Résultat sauvegardé : IT75394131108 — statut invalide
+2026-11-18 12:10:28,387 - INFO - Numéro à vérifier : DK41428627
+2026-11-18 12:10:43,222 - INFO - Appel DK41428627 — HTTP 200 — durée 13.84 secondes
+2026-11-18 12:10:43,226 - INFO - Résultat sauvegardé : DK41428627 — statut invalide
+2026-11-18 12:10:43,226 - INFO - Numéro à vérifier : SE960301628901
+2026-11-18 12:10:44,641 - INFO - Appel SE960301628901 — HTTP 200 — durée 0.41 secondes
+2026-11-18 12:10:44,646 - INFO - Résultat sauvegardé : SE960301628901 — statut invalide
+2026-11-18 12:10:44,646 - INFO - Numéro à vérifier : NL500417507B20
+2026-11-18 12:10:45,785 - INFO - Appel NL500417507B20 — HTTP 200 — durée 0.14 secondes
+2026-11-18 12:10:45,785 - WARNING - Numéro non tranché : NL500417507B20 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:10:45,788 - INFO - Résultat sauvegardé : NL500417507B20 — statut non_tranche
+2026-11-18 12:10:45,788 - INFO - Numéro à vérifier : SE497981515801
+2026-11-18 12:10:47,989 - INFO - Appel SE497981515801 — HTTP 200 — durée 1.20 secondes
+2026-11-18 12:10:47,992 - INFO - Résultat sauvegardé : SE497981515801 — statut invalide
+2026-11-18 12:10:47,993 - INFO - Numéro à vérifier : FI71418316
+2026-11-18 12:10:49,349 - INFO - Appel FI71418316 — HTTP 200 — durée 0.36 secondes
+2026-11-18 12:10:49,355 - INFO - Résultat sauvegardé : FI71418316 — statut invalide
+2026-11-18 12:10:49,355 - INFO - Numéro à vérifier : NL764675898B63
+2026-11-18 12:10:50,525 - INFO - Appel NL764675898B63 — HTTP 200 — durée 0.17 secondes
+2026-11-18 12:10:50,526 - WARNING - Numéro non tranché : NL764675898B63 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:10:50,529 - INFO - Résultat sauvegardé : NL764675898B63 — statut non_tranche
+2026-11-18 12:10:50,530 - INFO - Numéro à vérifier : NL559832230B51
+2026-11-18 12:10:51,662 - INFO - Appel NL559832230B51 — HTTP 200 — durée 0.13 secondes
+2026-11-18 12:10:51,662 - WARNING - Numéro non tranché : NL559832230B51 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:10:51,666 - INFO - Résultat sauvegardé : NL559832230B51 — statut non_tranche
+2026-11-18 12:10:51,666 - INFO - Numéro à vérifier : DK87837572
+2026-11-18 12:11:06,101 - INFO - Appel DK87837572 — HTTP 200 — durée 13.43 secondes
+2026-11-18 12:11:06,105 - INFO - Résultat sauvegardé : DK87837572 — statut invalide
+2026-11-18 12:11:06,105 - INFO - Numéro à vérifier : FR38587567647
+2026-11-18 12:11:15,341 - INFO - Appel FR38587567647 — HTTP 200 — durée 8.23 secondes
+2026-11-18 12:11:15,347 - INFO - Résultat sauvegardé : FR38587567647 — statut invalide
+2026-11-18 12:11:15,348 - INFO - Numéro à vérifier : IT28460458236
+2026-11-18 12:11:16,639 - INFO - Appel IT28460458236 — HTTP 200 — durée 0.29 secondes
+2026-11-18 12:11:16,643 - INFO - Résultat sauvegardé : IT28460458236 — statut invalide
+2026-11-18 12:11:16,643 - INFO - Numéro à vérifier : NL911081537B26
+2026-11-18 12:11:17,821 - INFO - Appel NL911081537B26 — HTTP 200 — durée 0.18 secondes
+2026-11-18 12:11:17,821 - WARNING - Numéro non tranché : NL911081537B26 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:11:17,825 - INFO - Résultat sauvegardé : NL911081537B26 — statut non_tranche
+2026-11-18 12:11:17,825 - INFO - Numéro à vérifier : PT894151967
+2026-11-18 12:11:19,268 - INFO - Appel PT894151967 — HTTP 200 — durée 0.44 secondes
+2026-11-18 12:11:19,275 - INFO - Résultat sauvegardé : PT894151967 — statut invalide
+2026-11-18 12:11:19,275 - INFO - Numéro à vérifier : DK32165192
+2026-11-18 12:11:30,819 - INFO - Appel DK32165192 — HTTP 200 — durée 10.54 secondes
+2026-11-18 12:11:30,823 - INFO - Résultat sauvegardé : DK32165192 — statut invalide
+2026-11-18 12:11:30,823 - INFO - Numéro à vérifier : DK97044953
+2026-11-18 12:11:39,484 - INFO - Appel DK97044953 — HTTP 200 — durée 7.66 secondes
+2026-11-18 12:11:39,490 - INFO - Résultat sauvegardé : DK97044953 — statut invalide
+2026-11-18 12:11:39,491 - INFO - Numéro à vérifier : SE413351377201
+2026-11-18 12:11:40,906 - INFO - Appel SE413351377201 — HTTP 200 — durée 0.41 secondes
+2026-11-18 12:11:40,910 - INFO - Résultat sauvegardé : SE413351377201 — statut invalide
+2026-11-18 12:11:40,910 - INFO - Numéro à vérifier : LU13587662
+2026-11-18 12:11:42,349 - INFO - Appel LU13587662 — HTTP 200 — durée 0.44 secondes
+2026-11-18 12:11:42,353 - INFO - Résultat sauvegardé : LU13587662 — statut invalide
+2026-11-18 12:11:42,353 - INFO - Numéro à vérifier : PL9456980487
+2026-11-18 12:11:43,628 - INFO - Appel PL9456980487 — HTTP 200 — durée 0.27 secondes
+2026-11-18 12:11:43,631 - INFO - Résultat sauvegardé : PL9456980487 — statut invalide
+2026-11-18 12:11:43,632 - INFO - Numéro à vérifier : SE988920742001
+2026-11-18 12:11:45,047 - INFO - Appel SE988920742001 — HTTP 200 — durée 0.41 secondes
+2026-11-18 12:11:45,052 - INFO - Résultat sauvegardé : SE988920742001 — statut invalide
+2026-11-18 12:11:45,053 - INFO - Numéro à vérifier : DK17987437
+2026-11-18 12:11:56,095 - INFO - Appel DK17987437 — HTTP 200 — durée 10.04 secondes
+2026-11-18 12:11:56,102 - INFO - Résultat sauvegardé : DK17987437 — statut invalide
+2026-11-18 12:11:56,102 - INFO - Numéro à vérifier : IT28251138260
+2026-11-18 12:11:57,252 - INFO - Appel IT28251138260 — HTTP 200 — durée 0.15 secondes
+2026-11-18 12:11:57,256 - INFO - Résultat sauvegardé : IT28251138260 — statut invalide
+2026-11-18 12:11:57,257 - INFO - Numéro à vérifier : LU85162573
+2026-11-18 12:11:58,476 - INFO - Appel LU85162573 — HTTP 200 — durée 0.22 secondes
+2026-11-18 12:11:58,480 - INFO - Résultat sauvegardé : LU85162573 — statut invalide
+2026-11-18 12:11:58,480 - INFO - Numéro à vérifier : FI58715965
+2026-11-18 12:12:00,180 - INFO - Appel FI58715965 — HTTP 200 — durée 0.70 secondes
+2026-11-18 12:12:00,184 - INFO - Résultat sauvegardé : FI58715965 — statut invalide
+2026-11-18 12:12:00,184 - INFO - Numéro à vérifier : PL4530425264
+2026-11-18 12:12:01,451 - INFO - Appel PL4530425264 — HTTP 200 — durée 0.27 secondes
+2026-11-18 12:12:01,455 - INFO - Résultat sauvegardé : PL4530425264 — statut invalide
+2026-11-18 12:12:01,456 - INFO - Numéro à vérifier : NL937694228B28
+2026-11-18 12:12:02,813 - INFO - Appel NL937694228B28 — HTTP 200 — durée 0.36 secondes
+2026-11-18 12:12:02,814 - WARNING - Numéro non tranché : NL937694228B28 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:12:02,817 - INFO - Résultat sauvegardé : NL937694228B28 — statut non_tranche
+2026-11-18 12:12:02,817 - INFO - Numéro à vérifier : PL2721528838
+2026-11-18 12:12:04,453 - INFO - Appel PL2721528838 — HTTP 200 — durée 0.63 secondes
+2026-11-18 12:12:04,459 - INFO - Résultat sauvegardé : PL2721528838 — statut invalide
+2026-11-18 12:12:04,459 - INFO - Numéro à vérifier : NL455155549B27
+2026-11-18 12:12:05,598 - INFO - Appel NL455155549B27 — HTTP 200 — durée 0.14 secondes
+2026-11-18 12:12:05,598 - WARNING - Numéro non tranché : NL455155549B27 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:12:05,602 - INFO - Résultat sauvegardé : NL455155549B27 — statut non_tranche
+2026-11-18 12:12:05,602 - INFO - Numéro à vérifier : PL6914925551
+2026-11-18 12:12:06,868 - INFO - Appel PL6914925551 — HTTP 200 — durée 0.27 secondes
+2026-11-18 12:12:06,874 - INFO - Résultat sauvegardé : PL6914925551 — statut invalide
+2026-11-18 12:12:06,874 - INFO - Numéro à vérifier : BE1504714181
+2026-11-18 12:12:08,022 - INFO - Appel BE1504714181 — HTTP 200 — durée 0.15 secondes
+2026-11-18 12:12:08,023 - WARNING - Numéro non tranché : BE1504714181 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:12:08,026 - INFO - Résultat sauvegardé : BE1504714181 — statut non_tranche
+2026-11-18 12:12:08,026 - INFO - Numéro à vérifier : FI99733617
+2026-11-18 12:12:09,414 - INFO - Appel FI99733617 — HTTP 200 — durée 0.39 secondes
+2026-11-18 12:12:09,418 - INFO - Résultat sauvegardé : FI99733617 — statut invalide
+2026-11-18 12:12:09,418 - INFO - Numéro à vérifier : BE1763604708
+2026-11-18 12:12:14,371 - INFO - Appel BE1763604708 — HTTP 200 — durée 3.95 secondes
+2026-11-18 12:12:14,375 - INFO - Résultat sauvegardé : BE1763604708 — statut invalide
+2026-11-18 12:12:14,375 - INFO - Numéro à vérifier : NL991494520B54
+2026-11-18 12:12:15,556 - INFO - Appel NL991494520B54 — HTTP 200 — durée 0.18 secondes
+2026-11-18 12:12:15,556 - WARNING - Numéro non tranché : NL991494520B54 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:12:15,560 - INFO - Résultat sauvegardé : NL991494520B54 — statut non_tranche
+2026-11-18 12:12:15,560 - INFO - Numéro à vérifier : DK77748598
+2026-11-18 12:12:29,843 - INFO - Appel DK77748598 — HTTP 200 — durée 13.28 secondes
+2026-11-18 12:12:29,857 - INFO - Résultat sauvegardé : DK77748598 — statut invalide
+2026-11-18 12:12:29,858 - INFO - Numéro à vérifier : PT829548211
+2026-11-18 12:12:31,152 - INFO - Appel PT829548211 — HTTP 200 — durée 0.29 secondes
+2026-11-18 12:12:31,156 - INFO - Résultat sauvegardé : PT829548211 — statut invalide
+2026-11-18 12:12:31,157 - INFO - Numéro à vérifier : LU79204938
+2026-11-18 12:12:32,378 - INFO - Appel LU79204938 — HTTP 200 — durée 0.22 secondes
+2026-11-18 12:12:32,382 - INFO - Résultat sauvegardé : LU79204938 — statut invalide
+2026-11-18 12:12:32,382 - INFO - Numéro à vérifier : BE0187390439
+2026-11-18 12:12:37,792 - INFO - Appel BE0187390439 — HTTP 200 — durée 4.41 secondes
+2026-11-18 12:12:37,798 - INFO - Résultat sauvegardé : BE0187390439 — statut invalide
+2026-11-18 12:12:37,799 - INFO - Numéro à vérifier : FI49738559
+2026-11-18 12:12:39,305 - INFO - Appel FI49738559 — HTTP 200 — durée 0.51 secondes
+2026-11-18 12:12:39,309 - INFO - Résultat sauvegardé : FI49738559 — statut invalide
+2026-11-18 12:12:39,309 - INFO - Numéro à vérifier : BE0684515835
+2026-11-18 12:12:40,450 - INFO - Appel BE0684515835 — HTTP 200 — durée 0.14 secondes
+2026-11-18 12:12:40,450 - WARNING - Numéro non tranché : BE0684515835 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:12:40,455 - INFO - Résultat sauvegardé : BE0684515835 — statut non_tranche
+2026-11-18 12:12:40,455 - INFO - Numéro à vérifier : BE0895884773
+2026-11-18 12:12:41,588 - INFO - Appel BE0895884773 — HTTP 200 — durée 0.13 secondes
+2026-11-18 12:12:41,588 - WARNING - Numéro non tranché : BE0895884773 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:12:41,593 - INFO - Résultat sauvegardé : BE0895884773 — statut non_tranche
+2026-11-18 12:12:41,593 - INFO - Numéro à vérifier : IT82482697495
+2026-11-18 12:12:42,764 - INFO - Appel IT82482697495 — HTTP 200 — durée 0.17 secondes
+2026-11-18 12:12:42,769 - INFO - Résultat sauvegardé : IT82482697495 — statut invalide
+2026-11-18 12:12:42,769 - INFO - Numéro à vérifier : NL917547317B75
+2026-11-18 12:12:43,911 - INFO - Appel NL917547317B75 — HTTP 200 — durée 0.14 secondes
+2026-11-18 12:12:43,911 - WARNING - Numéro non tranché : NL917547317B75 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:12:43,917 - INFO - Résultat sauvegardé : NL917547317B75 — statut non_tranche
+2026-11-18 12:12:43,917 - INFO - Numéro à vérifier : PL2454886220
+2026-11-18 12:12:45,158 - INFO - Appel PL2454886220 — HTTP 200 — durée 0.24 secondes
+2026-11-18 12:12:45,164 - INFO - Résultat sauvegardé : PL2454886220 — statut invalide
+2026-11-18 12:12:45,164 - INFO - Numéro à vérifier : FI85473404
+2026-11-18 12:12:46,539 - INFO - Appel FI85473404 — HTTP 200 — durée 0.37 secondes
+2026-11-18 12:12:46,543 - INFO - Résultat sauvegardé : FI85473404 — statut invalide
+2026-11-18 12:12:46,543 - INFO - Numéro à vérifier : FR35407758455
+2026-11-18 12:12:47,725 - INFO - Appel FR35407758455 — HTTP 200 — durée 0.18 secondes
+2026-11-18 12:12:47,726 - WARNING - Numéro non tranché : FR35407758455 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:12:47,730 - INFO - Résultat sauvegardé : FR35407758455 — statut non_tranche
+2026-11-18 12:12:47,730 - INFO - Numéro à vérifier : PT559329938
+2026-11-18 12:12:49,093 - INFO - Appel PT559329938 — HTTP 200 — durée 0.36 secondes
+2026-11-18 12:12:49,098 - INFO - Résultat sauvegardé : PT559329938 — statut invalide
+2026-11-18 12:12:49,098 - INFO - Numéro à vérifier : FR32775591669
+2026-11-18 12:12:50,238 - INFO - Appel FR32775591669 — HTTP 200 — durée 0.14 secondes
+2026-11-18 12:12:50,238 - WARNING - Numéro non tranché : FR32775591669 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:12:50,243 - INFO - Résultat sauvegardé : FR32775591669 — statut non_tranche
+2026-11-18 12:12:50,243 - INFO - Numéro à vérifier : PL6635597585
+2026-11-18 12:12:51,514 - INFO - Appel PL6635597585 — HTTP 200 — durée 0.27 secondes
+2026-11-18 12:12:51,521 - INFO - Résultat sauvegardé : PL6635597585 — statut invalide
+2026-11-18 12:12:51,521 - INFO - Numéro à vérifier : IT34269455647
+2026-11-18 12:12:52,662 - INFO - Appel IT34269455647 — HTTP 200 — durée 0.14 secondes
+2026-11-18 12:12:52,676 - INFO - Résultat sauvegardé : IT34269455647 — statut invalide
+2026-11-18 12:12:52,676 - INFO - Numéro à vérifier : NL205106924B91
+2026-11-18 12:12:53,806 - INFO - Appel NL205106924B91 — HTTP 200 — durée 0.13 secondes
+2026-11-18 12:12:53,806 - WARNING - Numéro non tranché : NL205106924B91 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:12:53,810 - INFO - Résultat sauvegardé : NL205106924B91 — statut non_tranche
+2026-11-18 12:12:53,810 - INFO - Numéro à vérifier : PT700778780
+2026-11-18 12:12:55,294 - INFO - Appel PT700778780 — HTTP 200 — durée 0.48 secondes
+2026-11-18 12:12:55,298 - INFO - Résultat sauvegardé : PT700778780 — statut invalide
+2026-11-18 12:12:55,298 - INFO - Numéro à vérifier : NL959753114B28
+2026-11-18 12:12:56,513 - INFO - Appel NL959753114B28 — HTTP 200 — durée 0.21 secondes
+2026-11-18 12:12:56,513 - WARNING - Numéro non tranché : NL959753114B28 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:12:56,528 - INFO - Résultat sauvegardé : NL959753114B28 — statut non_tranche
+2026-11-18 12:12:56,528 - INFO - Numéro à vérifier : PL9980755969
+2026-11-18 12:12:57,808 - INFO - Appel PL9980755969 — HTTP 200 — durée 0.28 secondes
+2026-11-18 12:12:57,813 - INFO - Résultat sauvegardé : PL9980755969 — statut invalide
+2026-11-18 12:12:57,813 - INFO - Numéro à vérifier : BE1857264146
+2026-11-18 12:13:02,751 - INFO - Appel BE1857264146 — HTTP 200 — durée 3.94 secondes
+2026-11-18 12:13:02,755 - INFO - Résultat sauvegardé : BE1857264146 — statut invalide
+2026-11-18 12:13:02,756 - INFO - Numéro à vérifier : NL406441376B65
+2026-11-18 12:13:03,910 - INFO - Appel NL406441376B65 — HTTP 200 — durée 0.15 secondes
+2026-11-18 12:13:03,910 - WARNING - Numéro non tranché : NL406441376B65 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:13:03,915 - INFO - Résultat sauvegardé : NL406441376B65 — statut non_tranche
+2026-11-18 12:13:03,915 - INFO - Numéro à vérifier : PT234548509
+2026-11-18 12:13:05,233 - INFO - Appel PT234548509 — HTTP 200 — durée 0.32 secondes
+2026-11-18 12:13:05,237 - INFO - Résultat sauvegardé : PT234548509 — statut invalide
+2026-11-18 12:13:05,238 - INFO - Numéro à vérifier : PT346987423
+2026-11-18 12:13:06,630 - INFO - Appel PT346987423 — HTTP 200 — durée 0.39 secondes
+2026-11-18 12:13:06,635 - INFO - Résultat sauvegardé : PT346987423 — statut invalide
+2026-11-18 12:13:06,635 - INFO - Numéro à vérifier : FI69346616
+2026-11-18 12:13:07,962 - INFO - Appel FI69346616 — HTTP 200 — durée 0.33 secondes
+2026-11-18 12:13:07,972 - INFO - Résultat sauvegardé : FI69346616 — statut invalide
+2026-11-18 12:13:07,972 - INFO - Numéro à vérifier : NL529801280B70
+2026-11-18 12:13:09,157 - INFO - Appel NL529801280B70 — HTTP 200 — durée 0.18 secondes
+2026-11-18 12:13:09,157 - WARNING - Numéro non tranché : NL529801280B70 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:13:09,161 - INFO - Résultat sauvegardé : NL529801280B70 — statut non_tranche
+2026-11-18 12:13:09,162 - INFO - Numéro à vérifier : DK20167572
+2026-11-18 12:13:23,226 - INFO - Appel DK20167572 — HTTP 200 — durée 13.06 secondes
+2026-11-18 12:13:23,231 - INFO - Résultat sauvegardé : DK20167572 — statut invalide
+2026-11-18 12:13:23,231 - INFO - Numéro à vérifier : PT558972110
+2026-11-18 12:13:24,803 - INFO - Appel PT558972110 — HTTP 200 — durée 0.57 secondes
+2026-11-18 12:13:24,817 - INFO - Résultat sauvegardé : PT558972110 — statut invalide
+2026-11-18 12:13:24,818 - INFO - Numéro à vérifier : NL542770556B81
+2026-11-18 12:13:25,958 - INFO - Appel NL542770556B81 — HTTP 200 — durée 0.14 secondes
+2026-11-18 12:13:25,958 - WARNING - Numéro non tranché : NL542770556B81 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:13:25,963 - INFO - Résultat sauvegardé : NL542770556B81 — statut non_tranche
+2026-11-18 12:13:25,963 - INFO - Numéro à vérifier : NL168768008B81
+2026-11-18 12:13:27,090 - INFO - Appel NL168768008B81 — HTTP 200 — durée 0.13 secondes
+2026-11-18 12:13:27,090 - WARNING - Numéro non tranché : NL168768008B81 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:13:27,094 - INFO - Résultat sauvegardé : NL168768008B81 — statut non_tranche
+2026-11-18 12:13:27,095 - INFO - Numéro à vérifier : PT598527133
+2026-11-18 12:13:28,405 - INFO - Appel PT598527133 — HTTP 200 — durée 0.31 secondes
+2026-11-18 12:13:28,409 - INFO - Résultat sauvegardé : PT598527133 — statut invalide
+2026-11-18 12:13:28,409 - INFO - Numéro à vérifier : SE437183616601
+2026-11-18 12:13:29,858 - INFO - Appel SE437183616601 — HTTP 200 — durée 0.45 secondes
+2026-11-18 12:13:29,863 - INFO - Résultat sauvegardé : SE437183616601 — statut invalide
+2026-11-18 12:13:29,863 - INFO - Numéro à vérifier : PT226550427
+2026-11-18 12:13:31,204 - INFO - Appel PT226550427 — HTTP 200 — durée 0.34 secondes
+2026-11-18 12:13:31,216 - INFO - Résultat sauvegardé : PT226550427 — statut invalide
+2026-11-18 12:13:31,216 - INFO - Numéro à vérifier : FR79532032574
+2026-11-18 12:13:32,350 - INFO - Appel FR79532032574 — HTTP 200 — durée 0.13 secondes
+2026-11-18 12:13:32,350 - WARNING - Numéro non tranché : FR79532032574 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:13:32,355 - INFO - Résultat sauvegardé : FR79532032574 — statut non_tranche
+2026-11-18 12:13:32,355 - INFO - Numéro à vérifier : DK61038531
+2026-11-18 12:13:45,790 - INFO - Appel DK61038531 — HTTP 200 — durée 12.43 secondes
+2026-11-18 12:13:45,796 - INFO - Résultat sauvegardé : DK61038531 — statut invalide
+2026-11-18 12:13:45,796 - INFO - Numéro à vérifier : PT450308413
+2026-11-18 12:13:47,489 - INFO - Appel PT450308413 — HTTP 200 — durée 0.69 secondes
+2026-11-18 12:13:47,493 - INFO - Résultat sauvegardé : PT450308413 — statut invalide
+2026-11-18 12:13:47,494 - INFO - Numéro à vérifier : DK95545343
+2026-11-18 12:13:55,139 - INFO - Appel DK95545343 — HTTP 200 — durée 6.64 secondes
+2026-11-18 12:13:55,145 - INFO - Résultat sauvegardé : DK95545343 — statut invalide
+2026-11-18 12:13:55,145 - INFO - Numéro à vérifier : DK92760049
+2026-11-18 12:14:06,145 - INFO - Appel DK92760049 — HTTP 200 — durée 10.00 secondes
+2026-11-18 12:14:06,149 - INFO - Résultat sauvegardé : DK92760049 — statut invalide
+2026-11-18 12:14:06,150 - INFO - Numéro à vérifier : NL701458458B20
+2026-11-18 12:14:07,328 - INFO - Appel NL701458458B20 — HTTP 200 — durée 0.18 secondes
+2026-11-18 12:14:07,328 - WARNING - Numéro non tranché : NL701458458B20 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:14:07,333 - INFO - Résultat sauvegardé : NL701458458B20 — statut non_tranche
+2026-11-18 12:14:07,333 - INFO - Numéro à vérifier : IT96780897581
+2026-11-18 12:14:08,483 - INFO - Appel IT96780897581 — HTTP 200 — durée 0.15 secondes
+2026-11-18 12:14:08,488 - INFO - Résultat sauvegardé : IT96780897581 — statut invalide
+2026-11-18 12:14:08,488 - INFO - Numéro à vérifier : SE268866643301
+2026-11-18 12:14:10,373 - INFO - Appel SE268866643301 — HTTP 200 — durée 0.88 secondes
+2026-11-18 12:14:10,391 - INFO - Résultat sauvegardé : SE268866643301 — statut invalide
+2026-11-18 12:14:10,391 - INFO - Numéro à vérifier : FI93802503
+2026-11-18 12:14:12,125 - INFO - Appel FI93802503 — HTTP 200 — durée 0.73 secondes
+2026-11-18 12:14:12,133 - INFO - Résultat sauvegardé : FI93802503 — statut invalide
+2026-11-18 12:14:12,133 - INFO - Numéro à vérifier : PL7489622869
+2026-11-18 12:14:13,436 - INFO - Appel PL7489622869 — HTTP 200 — durée 0.30 secondes
+2026-11-18 12:14:13,441 - INFO - Résultat sauvegardé : PL7489622869 — statut invalide
+2026-11-18 12:14:13,441 - INFO - Numéro à vérifier : NL618901097B55
+2026-11-18 12:14:14,593 - INFO - Appel NL618901097B55 — HTTP 200 — durée 0.15 secondes
+2026-11-18 12:14:14,593 - WARNING - Numéro non tranché : NL618901097B55 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:14:14,598 - INFO - Résultat sauvegardé : NL618901097B55 — statut non_tranche
+2026-11-18 12:14:14,598 - INFO - Numéro à vérifier : BE0746905443
+2026-11-18 12:14:19,777 - INFO - Appel BE0746905443 — HTTP 200 — durée 4.18 secondes
+2026-11-18 12:14:19,784 - INFO - Résultat sauvegardé : BE0746905443 — statut valide
+2026-11-18 12:14:19,784 - INFO - Numéro à vérifier : NL972133252B09
+2026-11-18 12:14:20,918 - INFO - Appel NL972133252B09 — HTTP 200 — durée 0.13 secondes
+2026-11-18 12:14:20,919 - WARNING - Numéro non tranché : NL972133252B09 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:14:20,924 - INFO - Résultat sauvegardé : NL972133252B09 — statut non_tranche
+2026-11-18 12:14:20,924 - INFO - Numéro à vérifier : DK57223375
+2026-11-18 12:14:32,613 - INFO - Appel DK57223375 — HTTP 200 — durée 10.69 secondes
+2026-11-18 12:14:32,621 - INFO - Résultat sauvegardé : DK57223375 — statut invalide
+2026-11-18 12:14:32,621 - INFO - Numéro à vérifier : DK93818008
+2026-11-18 12:14:44,585 - INFO - Appel DK93818008 — HTTP 200 — durée 10.96 secondes
+2026-11-18 12:14:44,590 - INFO - Résultat sauvegardé : DK93818008 — statut invalide
+2026-11-18 12:14:44,591 - INFO - Numéro à vérifier : FI28521326
+2026-11-18 12:14:45,963 - INFO - Appel FI28521326 — HTTP 200 — durée 0.37 secondes
+2026-11-18 12:14:45,968 - INFO - Résultat sauvegardé : FI28521326 — statut invalide
+2026-11-18 12:14:45,969 - INFO - Numéro à vérifier : FR26767758432
+2026-11-18 12:14:54,948 - INFO - Appel FR26767758432 — HTTP 200 — durée 7.98 secondes
+2026-11-18 12:14:54,953 - INFO - Résultat sauvegardé : FR26767758432 — statut invalide
+2026-11-18 12:14:54,953 - INFO - Numéro à vérifier : LU64665065
+2026-11-18 12:14:56,186 - INFO - Appel LU64665065 — HTTP 200 — durée 0.23 secondes
+2026-11-18 12:14:56,193 - INFO - Résultat sauvegardé : LU64665065 — statut invalide
+2026-11-18 12:14:56,193 - INFO - Numéro à vérifier : PT301044317
+2026-11-18 12:14:57,496 - INFO - Appel PT301044317 — HTTP 200 — durée 0.30 secondes
+2026-11-18 12:14:57,503 - INFO - Résultat sauvegardé : PT301044317 — statut invalide
+2026-11-18 12:14:57,504 - INFO - Numéro à vérifier : FR16857084403
+2026-11-18 12:14:58,669 - INFO - Appel FR16857084403 — HTTP 200 — durée 0.16 secondes
+2026-11-18 12:14:58,669 - WARNING - Numéro non tranché : FR16857084403 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:14:58,676 - INFO - Résultat sauvegardé : FR16857084403 — statut non_tranche
+2026-11-18 12:14:58,676 - INFO - Numéro à vérifier : IT78885300810
+2026-11-18 12:15:00,315 - INFO - Appel IT78885300810 — HTTP 200 — durée 0.64 secondes
+2026-11-18 12:15:00,321 - INFO - Résultat sauvegardé : IT78885300810 — statut invalide
+2026-11-18 12:15:00,321 - INFO - Numéro à vérifier : DK48142036
+2026-11-18 12:15:13,951 - INFO - Appel DK48142036 — HTTP 200 — durée 12.63 secondes
+2026-11-18 12:15:13,957 - INFO - Résultat sauvegardé : DK48142036 — statut invalide
+2026-11-18 12:15:13,957 - INFO - Numéro à vérifier : FR20298387846
+2026-11-18 12:15:15,128 - INFO - Appel FR20298387846 — HTTP 200 — durée 0.17 secondes
+2026-11-18 12:15:15,128 - WARNING - Numéro non tranché : FR20298387846 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:15:15,133 - INFO - Résultat sauvegardé : FR20298387846 — statut non_tranche
+2026-11-18 12:15:15,134 - INFO - Numéro à vérifier : PT625052820
+2026-11-18 12:15:16,488 - INFO - Appel PT625052820 — HTTP 200 — durée 0.35 secondes
+2026-11-18 12:15:16,494 - INFO - Résultat sauvegardé : PT625052820 — statut invalide
+2026-11-18 12:15:16,494 - INFO - Numéro à vérifier : PL2377797377
+2026-11-18 12:15:17,772 - INFO - Appel PL2377797377 — HTTP 200 — durée 0.28 secondes
+2026-11-18 12:15:17,777 - INFO - Résultat sauvegardé : PL2377797377 — statut invalide
+2026-11-18 12:15:17,777 - INFO - Numéro à vérifier : FR77695991447
+2026-11-18 12:15:27,012 - INFO - Appel FR77695991447 — HTTP 200 — durée 8.23 secondes
+2026-11-18 12:15:27,022 - INFO - Résultat sauvegardé : FR77695991447 — statut invalide
+2026-11-18 12:15:27,023 - INFO - Numéro à vérifier : SE573396913201
+2026-11-18 12:15:28,434 - INFO - Appel SE573396913201 — HTTP 200 — durée 0.41 secondes
+2026-11-18 12:15:28,442 - INFO - Résultat sauvegardé : SE573396913201 — statut invalide
+2026-11-18 12:15:28,442 - INFO - Numéro à vérifier : NL974549459B60
+2026-11-18 12:15:29,627 - INFO - Appel NL974549459B60 — HTTP 200 — durée 0.18 secondes
+2026-11-18 12:15:29,628 - WARNING - Numéro non tranché : NL974549459B60 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:15:29,633 - INFO - Résultat sauvegardé : NL974549459B60 — statut non_tranche
+2026-11-18 12:15:29,633 - INFO - Numéro à vérifier : DK61418512
+2026-11-18 12:15:45,699 - INFO - Appel DK61418512 — HTTP 200 — durée 15.07 secondes
+2026-11-18 12:15:45,705 - INFO - Résultat sauvegardé : DK61418512 — statut invalide
+2026-11-18 12:15:45,706 - INFO - Numéro à vérifier : IT80102923630
+2026-11-18 12:15:46,875 - INFO - Appel IT80102923630 — HTTP 200 — durée 0.17 secondes
+2026-11-18 12:15:46,880 - INFO - Résultat sauvegardé : IT80102923630 — statut invalide
+2026-11-18 12:15:46,880 - INFO - Numéro à vérifier : FR53209351751
+2026-11-18 12:15:57,141 - INFO - Appel FR53209351751 — HTTP 200 — durée 9.26 secondes
+2026-11-18 12:15:57,149 - INFO - Résultat sauvegardé : FR53209351751 — statut invalide
+2026-11-18 12:15:57,149 - INFO - Numéro à vérifier : PL8992975239
+2026-11-18 12:15:58,405 - INFO - Appel PL8992975239 — HTTP 200 — durée 0.26 secondes
+2026-11-18 12:15:58,410 - INFO - Résultat sauvegardé : PL8992975239 — statut valide
+2026-11-18 12:15:58,411 - INFO - Numéro à vérifier : BE0613951897
+2026-11-18 12:15:59,550 - INFO - Appel BE0613951897 — HTTP 200 — durée 0.14 secondes
+2026-11-18 12:15:59,550 - WARNING - Numéro non tranché : BE0613951897 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:15:59,557 - INFO - Résultat sauvegardé : BE0613951897 — statut non_tranche
+2026-11-18 12:15:59,557 - INFO - Numéro à vérifier : NL621156760B46
+2026-11-18 12:16:00,686 - INFO - Appel NL621156760B46 — HTTP 200 — durée 0.13 secondes
+2026-11-18 12:16:00,686 - WARNING - Numéro non tranché : NL621156760B46 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:16:00,692 - INFO - Résultat sauvegardé : NL621156760B46 — statut non_tranche
+2026-11-18 12:16:00,692 - INFO - Numéro à vérifier : FR27683525055
+2026-11-18 12:16:01,834 - INFO - Appel FR27683525055 — HTTP 200 — durée 0.14 secondes
+2026-11-18 12:16:01,834 - WARNING - Numéro non tranché : FR27683525055 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:16:01,840 - INFO - Résultat sauvegardé : FR27683525055 — statut non_tranche
+2026-11-18 12:16:01,840 - INFO - Numéro à vérifier : DK76332118
+2026-11-18 12:16:11,371 - INFO - Appel DK76332118 — HTTP 200 — durée 8.53 secondes
+2026-11-18 12:16:11,377 - INFO - Résultat sauvegardé : DK76332118 — statut invalide
+2026-11-18 12:16:11,377 - INFO - Numéro à vérifier : LU67602065
+2026-11-18 12:16:13,004 - INFO - Appel LU67602065 — HTTP 200 — durée 0.63 secondes
+2026-11-18 12:16:13,010 - INFO - Résultat sauvegardé : LU67602065 — statut invalide
+2026-11-18 12:16:13,010 - INFO - Numéro à vérifier : IT23654272105
+2026-11-18 12:16:14,187 - INFO - Appel IT23654272105 — HTTP 200 — durée 0.18 secondes
+2026-11-18 12:16:14,200 - INFO - Résultat sauvegardé : IT23654272105 — statut invalide
+2026-11-18 12:16:14,200 - INFO - Numéro à vérifier : SE343215293601
+2026-11-18 12:16:15,610 - INFO - Appel SE343215293601 — HTTP 200 — durée 0.41 secondes
+2026-11-18 12:16:15,629 - INFO - Résultat sauvegardé : SE343215293601 — statut invalide
+2026-11-18 12:16:15,629 - INFO - Numéro à vérifier : IT47681830767
+2026-11-18 12:16:17,005 - INFO - Appel IT47681830767 — HTTP 200 — durée 0.37 secondes
+2026-11-18 12:16:17,028 - INFO - Résultat sauvegardé : IT47681830767 — statut invalide
+2026-11-18 12:16:17,028 - INFO - Numéro à vérifier : IT72629424648
+2026-11-18 12:16:18,177 - INFO - Appel IT72629424648 — HTTP 200 — durée 0.15 secondes
+2026-11-18 12:16:18,185 - INFO - Résultat sauvegardé : IT72629424648 — statut invalide
+2026-11-18 12:16:18,185 - INFO - Numéro à vérifier : FI57203730
+2026-11-18 12:16:19,559 - INFO - Appel FI57203730 — HTTP 200 — durée 0.37 secondes
+2026-11-18 12:16:19,566 - INFO - Résultat sauvegardé : FI57203730 — statut invalide
+2026-11-18 12:16:19,566 - INFO - Numéro à vérifier : LU41881570
+2026-11-18 12:16:20,793 - INFO - Appel LU41881570 — HTTP 200 — durée 0.23 secondes
+2026-11-18 12:16:20,821 - INFO - Résultat sauvegardé : LU41881570 — statut invalide
+2026-11-18 12:16:20,821 - INFO - Numéro à vérifier : DK13056994
+2026-11-18 12:16:31,948 - INFO - Appel DK13056994 — HTTP 200 — durée 10.13 secondes
+2026-11-18 12:16:31,968 - INFO - Résultat sauvegardé : DK13056994 — statut invalide
+2026-11-18 12:16:31,968 - INFO - Numéro à vérifier : IT26600185719
+2026-11-18 12:16:33,102 - INFO - Appel IT26600185719 — HTTP 200 — durée 0.13 secondes
+2026-11-18 12:16:33,108 - INFO - Résultat sauvegardé : IT26600185719 — statut invalide
+2026-11-18 12:16:33,108 - INFO - Numéro à vérifier : SE669109039001
+2026-11-18 12:16:34,579 - INFO - Appel SE669109039001 — HTTP 200 — durée 0.47 secondes
+2026-11-18 12:16:34,598 - INFO - Résultat sauvegardé : SE669109039001 — statut invalide
+2026-11-18 12:16:34,598 - INFO - Numéro à vérifier : BE0435362823
+2026-11-18 12:16:40,265 - INFO - Appel BE0435362823 — HTTP 200 — durée 4.67 secondes
+2026-11-18 12:16:40,273 - INFO - Résultat sauvegardé : BE0435362823 — statut invalide
+2026-11-18 12:16:40,273 - INFO - Numéro à vérifier : FR58878591742
+2026-11-18 12:16:41,403 - INFO - Appel FR58878591742 — HTTP 200 — durée 0.13 secondes
+2026-11-18 12:16:41,404 - WARNING - Numéro non tranché : FR58878591742 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:16:41,410 - INFO - Résultat sauvegardé : FR58878591742 — statut non_tranche
+2026-11-18 12:16:41,410 - INFO - Numéro à vérifier : FI53071363
+2026-11-18 12:16:42,925 - INFO - Appel FI53071363 — HTTP 200 — durée 0.51 secondes
+2026-11-18 12:16:42,947 - INFO - Résultat sauvegardé : FI53071363 — statut invalide
+2026-11-18 12:16:42,948 - INFO - Numéro à vérifier : IT36586305769
+2026-11-18 12:16:44,105 - INFO - Appel IT36586305769 — HTTP 200 — durée 0.16 secondes
+2026-11-18 12:16:44,111 - INFO - Résultat sauvegardé : IT36586305769 — statut invalide
+2026-11-18 12:16:44,111 - INFO - Numéro à vérifier : FR62958033450
+2026-11-18 12:16:45,265 - INFO - Appel FR62958033450 — HTTP 200 — durée 0.15 secondes
+2026-11-18 12:16:45,266 - WARNING - Numéro non tranché : FR62958033450 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:16:45,287 - INFO - Résultat sauvegardé : FR62958033450 — statut non_tranche
+2026-11-18 12:16:45,287 - INFO - Numéro à vérifier : PL4363015354
+2026-11-18 12:16:46,541 - INFO - Appel PL4363015354 — HTTP 200 — durée 0.25 secondes
+2026-11-18 12:16:46,548 - INFO - Résultat sauvegardé : PL4363015354 — statut invalide
+2026-11-18 12:16:46,548 - INFO - Numéro à vérifier : PT722994885
+2026-11-18 12:16:47,901 - INFO - Appel PT722994885 — HTTP 200 — durée 0.35 secondes
+2026-11-18 12:16:47,919 - INFO - Résultat sauvegardé : PT722994885 — statut invalide
+2026-11-18 12:16:47,919 - INFO - Numéro à vérifier : FR69821523283
+2026-11-18 12:16:49,066 - INFO - Appel FR69821523283 — HTTP 200 — durée 0.15 secondes
+2026-11-18 12:16:49,066 - WARNING - Numéro non tranché : FR69821523283 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:16:49,073 - INFO - Résultat sauvegardé : FR69821523283 — statut non_tranche
+2026-11-18 12:16:49,073 - INFO - Numéro à vérifier : LU11552806
+2026-11-18 12:16:50,543 - INFO - Appel LU11552806 — HTTP 200 — durée 0.47 secondes
+2026-11-18 12:16:50,558 - INFO - Résultat sauvegardé : LU11552806 — statut invalide
+2026-11-18 12:16:50,559 - INFO - Numéro à vérifier : LU86861564
+2026-11-18 12:16:51,784 - INFO - Appel LU86861564 — HTTP 200 — durée 0.23 secondes
+2026-11-18 12:16:51,790 - INFO - Résultat sauvegardé : LU86861564 — statut invalide
+2026-11-18 12:16:51,790 - INFO - Numéro à vérifier : BE1967510287
+2026-11-18 12:16:52,908 - INFO - Appel BE1967510287 — HTTP 200 — durée 0.12 secondes
+2026-11-18 12:16:52,908 - WARNING - Numéro non tranché : BE1967510287 — réponse du service : MS_MAX_CONCURRENT_REQ
+2026-11-18 12:16:52,915 - INFO - Résultat sauvegardé : BE1967510287 — statut non_tranche
+2026-11-18 12:16:52,915 - INFO - Numéro à vérifier : FI21157189
+2026-11-18 12:16:54,506 - INFO - Appel FI21157189 — HTTP 200 — durée 0.59 secondes
+2026-11-18 12:16:54,512 - INFO - Résultat sauvegardé : FI21157189 — statut valide
+2026-11-18 12:16:54,512 - INFO - Numéro à vérifier : FI75929121
+2026-11-18 12:16:56,127 - INFO - Appel FI75929121 — HTTP 200 — durée 0.61 secondes
+2026-11-18 12:16:56,136 - INFO - Résultat sauvegardé : FI75929121 — statut invalide
+2026-11-18 12:16:56,136 - INFO - Numéro à vérifier : FI74523760
+2026-11-18 12:16:57,459 - INFO - Appel FI74523760 — HTTP 200 — durée 0.32 secondes
+2026-11-18 12:16:57,471 - INFO - Résultat sauvegardé : FI74523760 — statut invalide
+2026-11-18 12:16:57,471 - INFO - Numéro à vérifier : IT85351706776
+2026-11-18 12:16:58,587 - INFO - Appel IT85351706776 — HTTP 200 — durée 0.12 secondes
+2026-11-18 12:16:58,593 - INFO - Résultat sauvegardé : IT85351706776 — statut invalide
+2026-11-18 12:16:58,593 - INFO - Numéro à vérifier : PT582386594
+2026-11-18 12:16:59,890 - INFO - Appel PT582386594 — HTTP 200 — durée 0.30 secondes
+2026-11-18 12:16:59,897 - INFO - Résultat sauvegardé : PT582386594 — statut invalide
+2026-11-18 12:16:59,897 - INFO - Numéro à vérifier : IT06927451275
+2026-11-18 12:17:01,000 - INFO - Appel IT06927451275 — HTTP 200 — durée 0.10 secondes
+2026-11-18 12:17:01,007 - INFO - Résultat sauvegardé : IT06927451275 — statut invalide
+2026-11-18 12:17:01,007 - INFO - Numéro à vérifier : IT98152789941
+2026-11-18 12:17:02,115 - INFO - Appel IT98152789941 — HTTP 200 — durée 0.11 secondes
+2026-11-18 12:17:02,122 - INFO - Résultat sauvegardé : IT98152789941 — statut invalide
+2026-11-18 12:17:02,122 - INFO - Numéro à vérifier : PL6079513672
+2026-11-18 12:17:03,349 - INFO - Appel PL6079513672 — HTTP 200 — durée 0.23 secondes
+2026-11-18 12:17:03,355 - INFO - Résultat sauvegardé : PL6079513672 — statut invalide
+2026-11-18 12:17:03,355 - INFO - Numéro à vérifier : LU47121044
+2026-11-18 12:17:04,558 - INFO - Appel LU47121044 — HTTP 200 — durée 0.20 secondes
+2026-11-18 12:17:04,565 - INFO - Résultat sauvegardé : LU47121044 — statut invalide
+2026-11-18 12:17:04,565 - INFO - Numéro à vérifier : FR01434417762
+2026-11-18 12:17:13,500 - INFO - Appel FR01434417762 — HTTP 200 — durée 7.93 secondes
+2026-11-18 12:17:13,508 - INFO - Résultat sauvegardé : FR01434417762 — statut invalide
+2026-11-18 12:17:13,509 - INFO - Numéro à vérifier : PT361000537
+2026-11-18 12:17:14,792 - INFO - Appel PT361000537 — HTTP 200 — durée 0.28 secondes
+2026-11-18 12:17:14,800 - INFO - Résultat sauvegardé : PT361000537 — statut invalide
+2026-11-18 12:17:14,800 - INFO - Fin de la campagne — taille de l'échantillon : 200

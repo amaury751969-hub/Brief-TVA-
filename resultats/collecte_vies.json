@@ -1,0 +1,2002 @@
+[
+  {
+    "numero": "FR19395773647",
+    "pays": "FR",
+    "date_appel": "2026-11-18T10:55:38.193998+00:00",
+    "code_http": 200,
+    "duree_secondes": 8.909597999998368,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T10:55:47.645Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"19395773647\",\n  \"vatNumber\" : \"19395773647\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PL2171649458",
+    "pays": "PL",
+    "date_appel": "2026-11-18T10:55:48.108849+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.24472319999767933,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T10:55:48.889Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"2171649458\",\n  \"vatNumber\" : \"2171649458\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "LU48510555",
+    "pays": "LU",
+    "date_appel": "2026-11-18T10:55:49.356911+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.20997949999582488,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T10:55:50.106Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"48510555\",\n  \"vatNumber\" : \"48510555\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PL5112134613",
+    "pays": "PL",
+    "date_appel": "2026-11-18T10:58:37.355649+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.3668567999993684,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T10:58:38.262Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"5112134613\",\n  \"vatNumber\" : \"5112134613\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "SE973432798501",
+    "pays": "SE",
+    "date_appel": "2026-11-18T10:58:38.725985+00:00",
+    "code_http": 200,
+    "duree_secondes": 1.0690646000002744,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T10:58:40.330Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"973432798501\",\n  \"vatNumber\" : \"973432798501\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "LU30734528",
+    "pays": "LU",
+    "date_appel": "2026-11-18T10:58:40.801997+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.7134671000094386,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T10:58:42.052Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"30734528\",\n  \"vatNumber\" : \"30734528\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "SE361502911701",
+    "pays": "SE",
+    "date_appel": "2026-11-18T10:58:42.521834+00:00",
+    "code_http": 200,
+    "duree_secondes": 1.8320767999975942,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T10:58:44.894Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"361502911701\",\n  \"vatNumber\" : \"361502911701\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FR39696529558",
+    "pays": "FR",
+    "date_appel": "2026-11-18T10:58:45.356338+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.10736320000432897,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T10:58:46.002Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"39696529558\",\n  \"vatNumber\" : \"39696529558\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "BE1956065871",
+    "pays": "BE",
+    "date_appel": "2026-11-18T10:58:46.466769+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.09924150000733789,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T10:58:47.107Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"1956065871\",\n  \"vatNumber\" : \"1956065871\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "FI50108749",
+    "pays": "FI",
+    "date_appel": "2026-11-18T10:58:47.568941+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.3568574999953853,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T10:58:48.460Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"50108749\",\n  \"vatNumber\" : \"50108749\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FI61051266",
+    "pays": "FI",
+    "date_appel": "2026-11-18T10:58:48.928656+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.3234276000002865,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T10:58:49.792Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"61051266\",\n  \"vatNumber\" : \"61051266\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PT883211360",
+    "pays": "PT",
+    "date_appel": "2026-11-18T10:58:50.254888+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.10706849998678081,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T10:58:50.897Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"883211360\",\n  \"vatNumber\" : \"883211360\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "BE0281374333",
+    "pays": "BE",
+    "date_appel": "2026-11-18T10:58:51.368952+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.10484729999734554,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T10:58:52.011Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"0281374333\",\n  \"vatNumber\" : \"0281374333\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "PL7894958624",
+    "pays": "PL",
+    "date_appel": "2026-11-18T10:58:52.476593+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.24065259999770205,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T10:58:53.250Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"7894958624\",\n  \"vatNumber\" : \"7894958624\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FI82239305",
+    "pays": "FI",
+    "date_appel": "2026-11-18T10:58:53.721549+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.2810624999983702,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T10:58:54.542Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"82239305\",\n  \"vatNumber\" : \"82239305\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "SE695017159201",
+    "pays": "SE",
+    "date_appel": "2026-11-18T10:58:55.005694+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.4773548999946797,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T10:58:56.019Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"695017159201\",\n  \"vatNumber\" : \"695017159201\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "LU64028115",
+    "pays": "LU",
+    "date_appel": "2026-11-18T10:58:56.486126+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.19578300000284798,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T10:58:57.221Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"64028115\",\n  \"vatNumber\" : \"64028115\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "DK50549151",
+    "pays": "DK",
+    "date_appel": "2026-11-18T10:58:57.685124+00:00",
+    "code_http": 200,
+    "duree_secondes": 9.981693900001119,
+    "reponse_complete": "{\n  \"isValid\" : true,\n  \"requestDate\" : \"2026-11-18T10:59:08.206Z\",\n  \"userError\" : \"VALID\",\n  \"name\" : \"Stûbert Hansen Arkitekter\",\n  \"address\" : \"Møllevej 32A\\n3140 Ålsgårde\\n\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"50549151\",\n  \"vatNumber\" : \"50549151\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "valide"
+  },
+  {
+    "numero": "BE1771187534",
+    "pays": "BE",
+    "date_appel": "2026-11-18T10:59:08.670665+00:00",
+    "code_http": 200,
+    "duree_secondes": 4.929536800002097,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T10:59:14.137Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"1771187534\",\n  \"vatNumber\" : \"1771187534\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "DK54597231",
+    "pays": "DK",
+    "date_appel": "2026-11-18T10:59:14.605585+00:00",
+    "code_http": 200,
+    "duree_secondes": 11.667997500000638,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T10:59:26.811Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"54597231\",\n  \"vatNumber\" : \"54597231\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "DK69380468",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:03:20.326136+00:00",
+    "code_http": 200,
+    "duree_secondes": 8.94997419998981,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:03:29.812Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"69380468\",\n  \"vatNumber\" : \"69380468\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "IT54902317095",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:03:30.284659+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.14495519999763928,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:03:30.961Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"54902317095\",\n  \"vatNumber\" : \"54902317095\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL626524568B32",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:03:31.436324+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.13388730000588112,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:03:32.107Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"626524568B32\",\n  \"vatNumber\" : \"626524568B32\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "LU17590238",
+    "pays": "LU",
+    "date_appel": "2026-11-18T11:03:32.573986+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.19594030000735074,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:03:33.308Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"17590238\",\n  \"vatNumber\" : \"17590238\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "IT63351136831",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:03:33.773589+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.10556760001054499,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:03:34.417Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"63351136831\",\n  \"vatNumber\" : \"63351136831\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FR76400973060",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:03:34.882801+00:00",
+    "code_http": 200,
+    "duree_secondes": 8.08901060000062,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:03:43.509Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"76400973060\",\n  \"vatNumber\" : \"76400973060\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "LU38943762",
+    "pays": "LU",
+    "date_appel": "2026-11-18T11:03:43.974950+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.21125130000291392,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:03:44.720Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"38943762\",\n  \"vatNumber\" : \"38943762\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "IT69346559581",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:03:45.189289+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.18475210000178777,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:03:45.911Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"69346559581\",\n  \"vatNumber\" : \"69346559581\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PL5395192404",
+    "pays": "PL",
+    "date_appel": "2026-11-18T11:03:46.377138+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.38246860000072047,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:03:47.292Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"5395192404\",\n  \"vatNumber\" : \"5395192404\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "IT81506262153",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:03:47.764964+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.3007711999962339,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:03:48.598Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"81506262153\",\n  \"vatNumber\" : \"81506262153\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FI88426750",
+    "pays": "FI",
+    "date_appel": "2026-11-18T11:06:33.986944+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.4353897999972105,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:06:34.959Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"88426750\",\n  \"vatNumber\" : \"88426750\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "DK84588296",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:06:35.426900+00:00",
+    "code_http": 200,
+    "duree_secondes": 11.47355160000734,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:06:47.435Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"84588296\",\n  \"vatNumber\" : \"84588296\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "LU17951805",
+    "pays": "LU",
+    "date_appel": "2026-11-18T11:06:47.904124+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.31840619999275077,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:06:48.759Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"17951805\",\n  \"vatNumber\" : \"17951805\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "BE0594168649",
+    "pays": "BE",
+    "date_appel": "2026-11-18T11:06:49.226088+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.15251920001173858,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:06:49.914Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"0594168649\",\n  \"vatNumber\" : \"0594168649\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "SE576396678401",
+    "pays": "SE",
+    "date_appel": "2026-11-18T11:06:50.382898+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.7255860000004759,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:06:51.644Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"576396678401\",\n  \"vatNumber\" : \"576396678401\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "BE0626511221",
+    "pays": "BE",
+    "date_appel": "2026-11-18T11:06:52.111675+00:00",
+    "code_http": 200,
+    "duree_secondes": 4.026647999999113,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:06:56.671Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"0626511221\",\n  \"vatNumber\" : \"0626511221\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PT148707246",
+    "pays": "PT",
+    "date_appel": "2026-11-18T11:06:57.142374+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.2815782000106992,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:06:57.961Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"148707246\",\n  \"vatNumber\" : \"148707246\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FR17885355506",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:06:58.427199+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.10871420000330545,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:06:59.070Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"17885355506\",\n  \"vatNumber\" : \"17885355506\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "BE1734280717",
+    "pays": "BE",
+    "date_appel": "2026-11-18T11:06:59.539979+00:00",
+    "code_http": 200,
+    "duree_secondes": 3.900491200009128,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:07:03.974Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"1734280717\",\n  \"vatNumber\" : \"1734280717\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PL2920985142",
+    "pays": "PL",
+    "date_appel": "2026-11-18T11:07:04.444532+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.30077100000926293,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:07:05.281Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"2920985142\",\n  \"vatNumber\" : \"2920985142\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL985519332B34",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:09:13.816826+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.16169160000572447,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:09:14.509Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"985519332B34\",\n  \"vatNumber\" : \"985519332B34\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "PT659351374",
+    "pays": "PT",
+    "date_appel": "2026-11-18T11:09:14.982395+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.33006839999870863,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:09:15.840Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"659351374\",\n  \"vatNumber\" : \"659351374\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "DK72344081",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:09:16.316126+00:00",
+    "code_http": 200,
+    "duree_secondes": 13.129927900008624,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:09:29.972Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"72344081\",\n  \"vatNumber\" : \"72344081\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FR18251385978",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:09:30.449741+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.159949199995026,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:09:31.139Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"18251385978\",\n  \"vatNumber\" : \"18251385978\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "DK42075442",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:09:31.613629+00:00",
+    "code_http": 200,
+    "duree_secondes": 14.849313500002609,
+    "reponse_complete": "{\n  \"isValid\" : true,\n  \"requestDate\" : \"2026-11-18T11:09:46.990Z\",\n  \"userError\" : \"VALID\",\n  \"name\" : \"Let Bogføring ApS\",\n  \"address\" : \"Slagslundevej 4A\\n3550 Slangerup\\n\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"42075442\",\n  \"vatNumber\" : \"42075442\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "valide"
+  },
+  {
+    "numero": "SE410585080601",
+    "pays": "SE",
+    "date_appel": "2026-11-18T11:09:47.469035+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.43544080000719987,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:09:48.431Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"410585080601\",\n  \"vatNumber\" : \"410585080601\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "LU80155319",
+    "pays": "LU",
+    "date_appel": "2026-11-18T11:09:48.908115+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.20533589999831747,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:09:49.643Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"80155319\",\n  \"vatNumber\" : \"80155319\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FR63613454401",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:09:50.117462+00:00",
+    "code_http": 200,
+    "duree_secondes": 8.43333060000441,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:09:59.079Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"63613454401\",\n  \"vatNumber\" : \"63613454401\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "IT93554743869",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:09:59.555988+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.16410320000431966,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:00.242Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"93554743869\",\n  \"vatNumber\" : \"93554743869\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "LU62173671",
+    "pays": "LU",
+    "date_appel": "2026-11-18T11:10:00.723620+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.24963979999301955,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:01.503Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"62173671\",\n  \"vatNumber\" : \"62173671\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PT442624530",
+    "pays": "PT",
+    "date_appel": "2026-11-18T11:10:01.976696+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.35950799999409355,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:02.865Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"442624530\",\n  \"vatNumber\" : \"442624530\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PL7350084969",
+    "pays": "PL",
+    "date_appel": "2026-11-18T11:10:03.340215+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.1330829999933485,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:04.001Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"7350084969\",\n  \"vatNumber\" : \"7350084969\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "PL4483301111",
+    "pays": "PL",
+    "date_appel": "2026-11-18T11:10:04.477394+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.24435530000482686,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:05.251Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"4483301111\",\n  \"vatNumber\" : \"4483301111\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "BE1574150048",
+    "pays": "BE",
+    "date_appel": "2026-11-18T11:10:05.725687+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.6964042000035988,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:06.947Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"1574150048\",\n  \"vatNumber\" : \"1574150048\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "FR49198369636",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:10:07.432231+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.3427693999983603,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:08.302Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"49198369636\",\n  \"vatNumber\" : \"49198369636\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "BE0906317223",
+    "pays": "BE",
+    "date_appel": "2026-11-18T11:10:08.782571+00:00",
+    "code_http": 200,
+    "duree_secondes": 4.60520560000441,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:13.918Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"0906317223\",\n  \"vatNumber\" : \"0906317223\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "LU60316209",
+    "pays": "LU",
+    "date_appel": "2026-11-18T11:10:14.391969+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.24030089999723714,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:15.159Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"60316209\",\n  \"vatNumber\" : \"60316209\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL422642526B24",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:10:15.636381+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.1427313000021968,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:16.300Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"422642526B24\",\n  \"vatNumber\" : \"422642526B24\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "LU45692386",
+    "pays": "LU",
+    "date_appel": "2026-11-18T11:10:16.783423+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.2323515000025509,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:17.545Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"45692386\",\n  \"vatNumber\" : \"45692386\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "LU66660483",
+    "pays": "LU",
+    "date_appel": "2026-11-18T11:10:18.019789+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.23508640000363812,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:18.785Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"66660483\",\n  \"vatNumber\" : \"66660483\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL499260958B52",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:10:19.258947+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.13313700001162942,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:19.921Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"499260958B52\",\n  \"vatNumber\" : \"499260958B52\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "BE0804675178",
+    "pays": "BE",
+    "date_appel": "2026-11-18T11:10:20.396328+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.13261539999803063,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:21.058Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"0804675178\",\n  \"vatNumber\" : \"0804675178\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "SE113039722501",
+    "pays": "SE",
+    "date_appel": "2026-11-18T11:10:21.533123+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.5610807999910321,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:22.623Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"113039722501\",\n  \"vatNumber\" : \"113039722501\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FR29127638070",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:10:23.098902+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.1369935999973677,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:23.763Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"29127638070\",\n  \"vatNumber\" : \"29127638070\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "SE517079230201",
+    "pays": "SE",
+    "date_appel": "2026-11-18T11:10:24.240516+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.40398640000785235,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:25.168Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"517079230201\",\n  \"vatNumber\" : \"517079230201\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "SE684718505201",
+    "pays": "SE",
+    "date_appel": "2026-11-18T11:10:25.656341+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.37591279999469407,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:26.558Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"684718505201\",\n  \"vatNumber\" : \"684718505201\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL337703371B32",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:10:27.036738+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.17375580000225455,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:27.739Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"337703371B32\",\n  \"vatNumber\" : \"337703371B32\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "IT75394131108",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:10:28.216472+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.16734709999582265,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:28.914Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"75394131108\",\n  \"vatNumber\" : \"75394131108\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "DK41428627",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:10:29.387640+00:00",
+    "code_http": 200,
+    "duree_secondes": 13.835015200005728,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:43.751Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"41428627\",\n  \"vatNumber\" : \"41428627\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "SE960301628901",
+    "pays": "SE",
+    "date_appel": "2026-11-18T11:10:44.226514+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.4146337999991374,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:45.168Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"960301628901\",\n  \"vatNumber\" : \"960301628901\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL500417507B20",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:10:45.646962+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.13846729999931995,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:46.316Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"500417507B20\",\n  \"vatNumber\" : \"500417507B20\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "SE497981515801",
+    "pays": "SE",
+    "date_appel": "2026-11-18T11:10:46.789769+00:00",
+    "code_http": 200,
+    "duree_secondes": 1.19971689999511,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:48.520Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"497981515801\",\n  \"vatNumber\" : \"497981515801\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FI71418316",
+    "pays": "FI",
+    "date_appel": "2026-11-18T11:10:48.993734+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.35602590000780765,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:49.875Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"71418316\",\n  \"vatNumber\" : \"71418316\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL764675898B63",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:10:50.356058+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.16980259999400005,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:51.053Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"764675898B63\",\n  \"vatNumber\" : \"764675898B63\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "NL559832230B51",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:10:51.530562+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.13153660000534728,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:10:52.190Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"559832230B51\",\n  \"vatNumber\" : \"559832230B51\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "DK87837572",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:10:52.667088+00:00",
+    "code_http": 200,
+    "duree_secondes": 13.43454329999804,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:11:06.628Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"87837572\",\n  \"vatNumber\" : \"87837572\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FR38587567647",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:11:07.106439+00:00",
+    "code_http": 200,
+    "duree_secondes": 8.23466709999775,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:11:15.870Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"38587567647\",\n  \"vatNumber\" : \"38587567647\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "IT28460458236",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:11:16.348602+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.29051230000914074,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:11:17.167Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"28460458236\",\n  \"vatNumber\" : \"28460458236\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL911081537B26",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:11:17.643788+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.1776151999947615,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:11:18.350Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"911081537B26\",\n  \"vatNumber\" : \"911081537B26\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "PT894151967",
+    "pays": "PT",
+    "date_appel": "2026-11-18T11:11:18.826144+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.4427640999929281,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:11:19.797Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"894151967\",\n  \"vatNumber\" : \"894151967\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "DK32165192",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:11:20.275887+00:00",
+    "code_http": 200,
+    "duree_secondes": 10.543925499994657,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:11:31.350Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"32165192\",\n  \"vatNumber\" : \"32165192\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "DK97044953",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:11:31.824645+00:00",
+    "code_http": 200,
+    "duree_secondes": 7.660101000001305,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:11:40.012Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"97044953\",\n  \"vatNumber\" : \"97044953\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "SE413351377201",
+    "pays": "SE",
+    "date_appel": "2026-11-18T11:11:40.491427+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.41490109999722335,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:11:41.433Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"413351377201\",\n  \"vatNumber\" : \"413351377201\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "LU13587662",
+    "pays": "LU",
+    "date_appel": "2026-11-18T11:11:41.911613+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.4378990000113845,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:11:42.878Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"13587662\",\n  \"vatNumber\" : \"13587662\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PL9456980487",
+    "pays": "PL",
+    "date_appel": "2026-11-18T11:11:43.353746+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.27420600000186823,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:11:44.157Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"9456980487\",\n  \"vatNumber\" : \"9456980487\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "SE988920742001",
+    "pays": "SE",
+    "date_appel": "2026-11-18T11:11:44.632682+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.41429399998742156,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:11:45.574Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"988920742001\",\n  \"vatNumber\" : \"988920742001\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "DK17987437",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:11:46.053787+00:00",
+    "code_http": 200,
+    "duree_secondes": 10.042075699995621,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:11:56.623Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"17987437\",\n  \"vatNumber\" : \"17987437\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "IT28251138260",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:11:57.103444+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.14925850000872742,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:11:57.781Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"28251138260\",\n  \"vatNumber\" : \"28251138260\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "LU85162573",
+    "pays": "LU",
+    "date_appel": "2026-11-18T11:11:58.257391+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.21875539999746252,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:11:59.004Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"85162573\",\n  \"vatNumber\" : \"85162573\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FI58715965",
+    "pays": "FI",
+    "date_appel": "2026-11-18T11:11:59.480607+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.6996944999991683,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:00.707Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"58715965\",\n  \"vatNumber\" : \"58715965\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PL4530425264",
+    "pays": "PL",
+    "date_appel": "2026-11-18T11:12:01.184683+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.26719289999164175,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:01.978Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"4530425264\",\n  \"vatNumber\" : \"4530425264\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL937694228B28",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:12:02.456507+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.3572991999972146,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:03.343Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"937694228B28\",\n  \"vatNumber\" : \"937694228B28\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "PL2721528838",
+    "pays": "PL",
+    "date_appel": "2026-11-18T11:12:03.818298+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.6346990000020014,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:04.981Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"2721528838\",\n  \"vatNumber\" : \"2721528838\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL455155549B27",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:12:05.460033+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.13838730000134092,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:06.127Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"455155549B27\",\n  \"vatNumber\" : \"455155549B27\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "PL6914925551",
+    "pays": "PL",
+    "date_appel": "2026-11-18T11:12:06.603079+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.265761200003908,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:07.397Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"6914925551\",\n  \"vatNumber\" : \"6914925551\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "BE1504714181",
+    "pays": "BE",
+    "date_appel": "2026-11-18T11:12:07.874549+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.14818979999108706,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:08.548Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"1504714181\",\n  \"vatNumber\" : \"1504714181\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "FI99733617",
+    "pays": "FI",
+    "date_appel": "2026-11-18T11:12:09.027046+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.3870475000003353,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:09.943Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"99733617\",\n  \"vatNumber\" : \"99733617\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "BE1763604708",
+    "pays": "BE",
+    "date_appel": "2026-11-18T11:12:10.418783+00:00",
+    "code_http": 200,
+    "duree_secondes": 3.9526946999976644,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:14.900Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"1763604708\",\n  \"vatNumber\" : \"1763604708\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL991494520B54",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:12:15.376286+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.1798869000049308,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:16.084Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"991494520B54\",\n  \"vatNumber\" : \"991494520B54\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "DK77748598",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:12:16.561107+00:00",
+    "code_http": 200,
+    "duree_secondes": 13.282700700001442,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:30.362Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"77748598\",\n  \"vatNumber\" : \"77748598\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PT829548211",
+    "pays": "PT",
+    "date_appel": "2026-11-18T11:12:30.858851+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.29391860000032466,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:31.678Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"829548211\",\n  \"vatNumber\" : \"829548211\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "LU79204938",
+    "pays": "LU",
+    "date_appel": "2026-11-18T11:12:32.157646+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.22057850001147017,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:32.906Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"79204938\",\n  \"vatNumber\" : \"79204938\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "BE0187390439",
+    "pays": "BE",
+    "date_appel": "2026-11-18T11:12:33.383580+00:00",
+    "code_http": 200,
+    "duree_secondes": 4.40915789999417,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:38.319Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"0187390439\",\n  \"vatNumber\" : \"0187390439\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FI49738559",
+    "pays": "FI",
+    "date_appel": "2026-11-18T11:12:38.799596+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.5054417000064859,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:39.833Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"49738559\",\n  \"vatNumber\" : \"49738559\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "BE0684515835",
+    "pays": "BE",
+    "date_appel": "2026-11-18T11:12:40.310912+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.13906169999972917,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:40.981Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"0684515835\",\n  \"vatNumber\" : \"0684515835\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "BE0895884773",
+    "pays": "BE",
+    "date_appel": "2026-11-18T11:12:41.455691+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.13231400000222493,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:42.114Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"0895884773\",\n  \"vatNumber\" : \"0895884773\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "IT82482697495",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:12:42.594275+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.1697579999890877,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:43.292Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"82482697495\",\n  \"vatNumber\" : \"82482697495\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL917547317B75",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:12:43.769908+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.14108639999176376,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:44.439Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"917547317B75\",\n  \"vatNumber\" : \"917547317B75\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "PL2454886220",
+    "pays": "PL",
+    "date_appel": "2026-11-18T11:12:44.917693+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.2411422000004677,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:45.687Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"2454886220\",\n  \"vatNumber\" : \"2454886220\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FI85473404",
+    "pays": "FI",
+    "date_appel": "2026-11-18T11:12:46.164821+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.37409750001097564,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:47.065Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"85473404\",\n  \"vatNumber\" : \"85473404\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FR35407758455",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:12:47.543746+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.18203569999604952,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:48.255Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"35407758455\",\n  \"vatNumber\" : \"35407758455\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "PT559329938",
+    "pays": "PT",
+    "date_appel": "2026-11-18T11:12:48.731148+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.3626599000126589,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:49.622Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"559329938\",\n  \"vatNumber\" : \"559329938\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FR32775591669",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:12:50.098811+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.1398512000014307,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:50.763Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"32775591669\",\n  \"vatNumber\" : \"32775591669\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "PL6635597585",
+    "pays": "PL",
+    "date_appel": "2026-11-18T11:12:51.243833+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.27102129999548197,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:52.044Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"6635597585\",\n  \"vatNumber\" : \"6635597585\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "IT34269455647",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:12:52.521850+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.1400562000053469,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:53.186Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"34269455647\",\n  \"vatNumber\" : \"34269455647\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL205106924B91",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:12:53.677226+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.12896709999768063,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:54.336Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"205106924B91\",\n  \"vatNumber\" : \"205106924B91\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "PT700778780",
+    "pays": "PT",
+    "date_appel": "2026-11-18T11:12:54.811435+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.4828041000000667,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:55.820Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"700778780\",\n  \"vatNumber\" : \"700778780\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL959753114B28",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:12:56.299376+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.21350709999387618,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:57.034Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"959753114B28\",\n  \"vatNumber\" : \"959753114B28\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "PL9980755969",
+    "pays": "PL",
+    "date_appel": "2026-11-18T11:12:57.529283+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.2794057999999495,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:12:58.335Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"9980755969\",\n  \"vatNumber\" : \"9980755969\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "BE1857264146",
+    "pays": "BE",
+    "date_appel": "2026-11-18T11:12:58.814097+00:00",
+    "code_http": 200,
+    "duree_secondes": 3.9373306000052253,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:13:03.277Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"1857264146\",\n  \"vatNumber\" : \"1857264146\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL406441376B65",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:13:03.756896+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.15316049999091774,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:13:04.435Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"406441376B65\",\n  \"vatNumber\" : \"406441376B65\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "PT234548509",
+    "pays": "PT",
+    "date_appel": "2026-11-18T11:13:04.916282+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.31685689999721944,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:13:05.758Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"234548509\",\n  \"vatNumber\" : \"234548509\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PT346987423",
+    "pays": "PT",
+    "date_appel": "2026-11-18T11:13:06.238665+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.3919140999933006,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:13:07.153Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"346987423\",\n  \"vatNumber\" : \"346987423\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FI69346616",
+    "pays": "FI",
+    "date_appel": "2026-11-18T11:13:07.636402+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.3255722999892896,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:13:08.490Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"69346616\",\n  \"vatNumber\" : \"69346616\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL529801280B70",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:13:08.973553+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.183579100004863,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:13:09.682Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"529801280B70\",\n  \"vatNumber\" : \"529801280B70\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "DK20167572",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:13:10.162504+00:00",
+    "code_http": 200,
+    "duree_secondes": 13.06403790001059,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:13:23.754Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"20167572\",\n  \"vatNumber\" : \"20167572\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PT558972110",
+    "pays": "PT",
+    "date_appel": "2026-11-18T11:13:24.231901+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.5714507000084268,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:13:25.324Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"558972110\",\n  \"vatNumber\" : \"558972110\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL542770556B81",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:13:25.818886+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.13965439998719376,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:13:26.485Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"542770556B81\",\n  \"vatNumber\" : \"542770556B81\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "NL168768008B81",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:13:26.963910+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.1262187999964226,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:13:27.620Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"168768008B81\",\n  \"vatNumber\" : \"168768008B81\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "PT598527133",
+    "pays": "PT",
+    "date_appel": "2026-11-18T11:13:28.095692+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.3092423000052804,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:13:28.933Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"598527133\",\n  \"vatNumber\" : \"598527133\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "SE437183616601",
+    "pays": "SE",
+    "date_appel": "2026-11-18T11:13:29.410275+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.44787979999091476,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:13:30.385Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"437183616601\",\n  \"vatNumber\" : \"437183616601\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PT226550427",
+    "pays": "PT",
+    "date_appel": "2026-11-18T11:13:30.864377+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.339507999990019,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:13:31.726Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"226550427\",\n  \"vatNumber\" : \"226550427\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FR79532032574",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:13:32.217318+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.13298170000780374,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:13:32.872Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"79532032574\",\n  \"vatNumber\" : \"79532032574\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "DK61038531",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:13:33.356387+00:00",
+    "code_http": 200,
+    "duree_secondes": 12.4339992999885,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:13:46.310Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"61038531\",\n  \"vatNumber\" : \"61038531\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PT450308413",
+    "pays": "PT",
+    "date_appel": "2026-11-18T11:13:46.797288+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.6919198999967193,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:13:48.014Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"450308413\",\n  \"vatNumber\" : \"450308413\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "DK95545343",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:13:48.494648+00:00",
+    "code_http": 200,
+    "duree_secondes": 6.644352200004505,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:13:55.666Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"95545343\",\n  \"vatNumber\" : \"95545343\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "DK92760049",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:13:56.146197+00:00",
+    "code_http": 200,
+    "duree_secondes": 9.998813800004427,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:14:06.670Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"92760049\",\n  \"vatNumber\" : \"92760049\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL701458458B20",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:14:07.150664+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.17799640000157524,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:14:07.854Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"701458458B20\",\n  \"vatNumber\" : \"701458458B20\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "IT96780897581",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:14:08.333964+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.149690099991858,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:14:09.010Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"96780897581\",\n  \"vatNumber\" : \"96780897581\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "SE268866643301",
+    "pays": "SE",
+    "date_appel": "2026-11-18T11:14:09.488698+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.8848155000014231,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:14:10.895Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"268866643301\",\n  \"vatNumber\" : \"268866643301\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FI93802503",
+    "pays": "FI",
+    "date_appel": "2026-11-18T11:14:11.392141+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.7334793000045465,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:14:12.652Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"93802503\",\n  \"vatNumber\" : \"93802503\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PL7489622869",
+    "pays": "PL",
+    "date_appel": "2026-11-18T11:14:13.134061+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.3021962000057101,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:14:13.964Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"7489622869\",\n  \"vatNumber\" : \"7489622869\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL618901097B55",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:14:14.442786+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.15039789999718778,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:14:15.117Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"618901097B55\",\n  \"vatNumber\" : \"618901097B55\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "BE0746905443",
+    "pays": "BE",
+    "date_appel": "2026-11-18T11:14:15.599600+00:00",
+    "code_http": 200,
+    "duree_secondes": 4.178082600003108,
+    "reponse_complete": "{\n  \"isValid\" : true,\n  \"requestDate\" : \"2026-11-18T11:14:20.303Z\",\n  \"userError\" : \"VALID\",\n  \"name\" : \"BV Team Platteeuw\",\n  \"address\" : \"Kwadestraat 53\\n8800 Roeselare\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"0746905443\",\n  \"vatNumber\" : \"0746905443\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "valide"
+  },
+  {
+    "numero": "NL972133252B09",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:14:20.784775+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.13406499999109656,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:14:21.445Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"972133252B09\",\n  \"vatNumber\" : \"972133252B09\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "DK57223375",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:14:21.924507+00:00",
+    "code_http": 200,
+    "duree_secondes": 10.689170699988608,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:14:33.139Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"57223375\",\n  \"vatNumber\" : \"57223375\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "DK93818008",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:14:33.622205+00:00",
+    "code_http": 200,
+    "duree_secondes": 10.962732100000721,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:14:45.113Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"93818008\",\n  \"vatNumber\" : \"93818008\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FI28521326",
+    "pays": "FI",
+    "date_appel": "2026-11-18T11:14:45.591741+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.3719197000027634,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:14:46.489Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"28521326\",\n  \"vatNumber\" : \"28521326\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FR26767758432",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:14:46.969870+00:00",
+    "code_http": 200,
+    "duree_secondes": 7.978206799991312,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:14:55.476Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"26767758432\",\n  \"vatNumber\" : \"26767758432\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "LU64665065",
+    "pays": "LU",
+    "date_appel": "2026-11-18T11:14:55.954554+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.23166619999392424,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:14:56.713Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"64665065\",\n  \"vatNumber\" : \"64665065\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PT301044317",
+    "pays": "PT",
+    "date_appel": "2026-11-18T11:14:57.193900+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.3020274000009522,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:14:58.023Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"301044317\",\n  \"vatNumber\" : \"301044317\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FR16857084403",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:14:58.505629+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.16338810000161175,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:14:59.198Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"16857084403\",\n  \"vatNumber\" : \"16857084403\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "IT78885300810",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:14:59.677271+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.6383361000043806,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:15:00.842Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"78885300810\",\n  \"vatNumber\" : \"78885300810\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "DK48142036",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:15:01.321980+00:00",
+    "code_http": 200,
+    "duree_secondes": 12.629484700009925,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:15:14.477Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"48142036\",\n  \"vatNumber\" : \"48142036\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FR20298387846",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:15:14.958590+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.16973549999238458,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:15:15.653Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"20298387846\",\n  \"vatNumber\" : \"20298387846\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "PT625052820",
+    "pays": "PT",
+    "date_appel": "2026-11-18T11:15:16.134513+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.3541092000086792,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:15:17.011Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"625052820\",\n  \"vatNumber\" : \"625052820\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PL2377797377",
+    "pays": "PL",
+    "date_appel": "2026-11-18T11:15:17.494719+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.2777099999948405,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:15:18.298Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"2377797377\",\n  \"vatNumber\" : \"2377797377\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FR77695991447",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:15:18.778513+00:00",
+    "code_http": 200,
+    "duree_secondes": 8.234340399998473,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:15:27.531Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"77695991447\",\n  \"vatNumber\" : \"77695991447\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "SE573396913201",
+    "pays": "SE",
+    "date_appel": "2026-11-18T11:15:28.023790+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.41093410000030417,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:15:28.959Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"573396913201\",\n  \"vatNumber\" : \"573396913201\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "NL974549459B60",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:15:29.445058+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.18268260000331793,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:15:30.147Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"974549459B60\",\n  \"vatNumber\" : \"974549459B60\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "DK61418512",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:15:30.634019+00:00",
+    "code_http": 200,
+    "duree_secondes": 15.065129399998114,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:15:46.227Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"61418512\",\n  \"vatNumber\" : \"61418512\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "IT80102923630",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:15:46.706458+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.16852760000620037,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:15:47.399Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"80102923630\",\n  \"vatNumber\" : \"80102923630\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FR53209351751",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:15:47.880863+00:00",
+    "code_http": 200,
+    "duree_secondes": 9.260788600004162,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:15:57.660Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"53209351751\",\n  \"vatNumber\" : \"53209351751\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PL8992975239",
+    "pays": "PL",
+    "date_appel": "2026-11-18T11:15:58.149759+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.2553473000007216,
+    "reponse_complete": "{\n  \"isValid\" : true,\n  \"requestDate\" : \"2026-11-18T11:15:58.929Z\",\n  \"userError\" : \"VALID\",\n  \"name\" : \"KAMIL STASIAK\",\n  \"address\" : \"KADŁUB 28\\n98-300 \",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"8992975239\",\n  \"vatNumber\" : \"8992975239\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "valide"
+  },
+  {
+    "numero": "BE0613951897",
+    "pays": "BE",
+    "date_appel": "2026-11-18T11:15:59.411438+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.1389402000058908,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:00.075Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"0613951897\",\n  \"vatNumber\" : \"0613951897\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "NL621156760B46",
+    "pays": "NL",
+    "date_appel": "2026-11-18T11:16:00.558593+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.12804809999943245,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:01.214Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"621156760B46\",\n  \"vatNumber\" : \"621156760B46\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "FR27683525055",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:16:01.692669+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.14162260000011884,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:02.360Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"27683525055\",\n  \"vatNumber\" : \"27683525055\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "DK76332118",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:16:02.840895+00:00",
+    "code_http": 200,
+    "duree_secondes": 8.53061259999231,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:11.899Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"76332118\",\n  \"vatNumber\" : \"76332118\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "LU67602065",
+    "pays": "LU",
+    "date_appel": "2026-11-18T11:16:12.377506+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.6270381999929668,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:13.529Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"67602065\",\n  \"vatNumber\" : \"67602065\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "IT23654272105",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:16:14.011095+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.17637099999410566,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:14.702Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"23654272105\",\n  \"vatNumber\" : \"23654272105\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "SE343215293601",
+    "pays": "SE",
+    "date_appel": "2026-11-18T11:16:15.202635+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.4078980999911437,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:16.130Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"343215293601\",\n  \"vatNumber\" : \"343215293601\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "IT47681830767",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:16:16.630644+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.3745063999958802,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:17.524Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"47681830767\",\n  \"vatNumber\" : \"47681830767\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "IT72629424648",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:16:18.029320+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.14843760000076145,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:18.703Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"72629424648\",\n  \"vatNumber\" : \"72629424648\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FI57203730",
+    "pays": "FI",
+    "date_appel": "2026-11-18T11:16:19.185831+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.37355840000964236,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:20.085Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"57203730\",\n  \"vatNumber\" : \"57203730\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "LU41881570",
+    "pays": "LU",
+    "date_appel": "2026-11-18T11:16:20.567279+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.22601269998995122,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:21.315Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"41881570\",\n  \"vatNumber\" : \"41881570\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "DK13056994",
+    "pays": "DK",
+    "date_appel": "2026-11-18T11:16:21.822104+00:00",
+    "code_http": 200,
+    "duree_secondes": 10.126613199987332,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:32.469Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"13056994\",\n  \"vatNumber\" : \"13056994\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "IT26600185719",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:16:32.969736+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.13224220000847708,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:33.628Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"26600185719\",\n  \"vatNumber\" : \"26600185719\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "SE669109039001",
+    "pays": "SE",
+    "date_appel": "2026-11-18T11:16:34.108768+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.47017760000017006,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:35.100Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"669109039001\",\n  \"vatNumber\" : \"669109039001\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "BE0435362823",
+    "pays": "BE",
+    "date_appel": "2026-11-18T11:16:35.599189+00:00",
+    "code_http": 200,
+    "duree_secondes": 4.666066999998293,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:40.791Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"0435362823\",\n  \"vatNumber\" : \"0435362823\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FR58878591742",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:16:41.274427+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.1292429000022821,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:41.931Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"58878591742\",\n  \"vatNumber\" : \"58878591742\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "FI53071363",
+    "pays": "FI",
+    "date_appel": "2026-11-18T11:16:42.411166+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.5146294000005582,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:43.445Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"53071363\",\n  \"vatNumber\" : \"53071363\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "IT36586305769",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:16:43.948992+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.15649809999740683,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:44.625Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"36586305769\",\n  \"vatNumber\" : \"36586305769\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FR62958033450",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:16:45.112255+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.1533627000026172,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:45.787Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"62958033450\",\n  \"vatNumber\" : \"62958033450\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "PL4363015354",
+    "pays": "PL",
+    "date_appel": "2026-11-18T11:16:46.287745+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.2535774999996647,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:47.070Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"4363015354\",\n  \"vatNumber\" : \"4363015354\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PT722994885",
+    "pays": "PT",
+    "date_appel": "2026-11-18T11:16:47.548815+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.3526175000006333,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:48.426Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"722994885\",\n  \"vatNumber\" : \"722994885\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FR69821523283",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:16:48.920009+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.14670420000038575,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:49.592Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"69821523283\",\n  \"vatNumber\" : \"69821523283\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "LU11552806",
+    "pays": "LU",
+    "date_appel": "2026-11-18T11:16:50.074077+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.4692144000000553,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:51.066Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"11552806\",\n  \"vatNumber\" : \"11552806\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "LU86861564",
+    "pays": "LU",
+    "date_appel": "2026-11-18T11:16:51.559595+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.2250892999873031,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:52.310Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"86861564\",\n  \"vatNumber\" : \"86861564\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "BE1967510287",
+    "pays": "BE",
+    "date_appel": "2026-11-18T11:16:52.791544+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.1170410000049742,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:53.438Z\",\n  \"userError\" : \"MS_MAX_CONCURRENT_REQ\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"1967510287\",\n  \"vatNumber\" : \"1967510287\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": "MS_MAX_CONCURRENT_REQ",
+    "statut": "non_tranche"
+  },
+  {
+    "numero": "FI21157189",
+    "pays": "FI",
+    "date_appel": "2026-11-18T11:16:53.916371+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.5899721000023419,
+    "reponse_complete": "{\n  \"isValid\" : true,\n  \"requestDate\" : \"2026-11-18T11:16:55.035Z\",\n  \"userError\" : \"VALID\",\n  \"name\" : \"Metsäyhtymä Seppänen Ulla ja Sirviö Eero\",\n  \"address\" : \"Linnantaustie 41 A 2\\n87250 KAJAANI\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"21157189\",\n  \"vatNumber\" : \"21157189\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "valide"
+  },
+  {
+    "numero": "FI75929121",
+    "pays": "FI",
+    "date_appel": "2026-11-18T11:16:55.513362+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.6145366999990074,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:56.658Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"75929121\",\n  \"vatNumber\" : \"75929121\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FI74523760",
+    "pays": "FI",
+    "date_appel": "2026-11-18T11:16:57.136616+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.3226480999874184,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:57.986Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"74523760\",\n  \"vatNumber\" : \"74523760\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "IT85351706776",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:16:58.472101+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.11524670000653714,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:16:59.113Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"85351706776\",\n  \"vatNumber\" : \"85351706776\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PT582386594",
+    "pays": "PT",
+    "date_appel": "2026-11-18T11:16:59.594203+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.296143800005666,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:17:00.416Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"582386594\",\n  \"vatNumber\" : \"582386594\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "IT06927451275",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:17:00.897612+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.10296129999915138,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:17:01.532Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"06927451275\",\n  \"vatNumber\" : \"06927451275\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "IT98152789941",
+    "pays": "IT",
+    "date_appel": "2026-11-18T11:17:02.008133+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.10768040000402834,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:17:02.646Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"---\",\n  \"address\" : \"---\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"98152789941\",\n  \"vatNumber\" : \"98152789941\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PL6079513672",
+    "pays": "PL",
+    "date_appel": "2026-11-18T11:17:03.123278+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.2259483999951044,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:17:03.881Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"6079513672\",\n  \"vatNumber\" : \"6079513672\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "LU47121044",
+    "pays": "LU",
+    "date_appel": "2026-11-18T11:17:04.356406+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.20189690000552218,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:17:05.087Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"47121044\",\n  \"vatNumber\" : \"47121044\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "FR01434417762",
+    "pays": "FR",
+    "date_appel": "2026-11-18T11:17:05.565587+00:00",
+    "code_http": 200,
+    "duree_secondes": 7.934913500008406,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:17:14.031Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"01434417762\",\n  \"vatNumber\" : \"01434417762\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  },
+  {
+    "numero": "PT361000537",
+    "pays": "PT",
+    "date_appel": "2026-11-18T11:17:14.509477+00:00",
+    "code_http": 200,
+    "duree_secondes": 0.2832870000129333,
+    "reponse_complete": "{\n  \"isValid\" : false,\n  \"requestDate\" : \"2026-11-18T11:17:15.324Z\",\n  \"userError\" : \"INVALID\",\n  \"name\" : \"\",\n  \"address\" : \"\",\n  \"requestIdentifier\" : \"\",\n  \"originalVatNumber\" : \"361000537\",\n  \"vatNumber\" : \"361000537\",\n  \"viesApproximate\" : {\n    \"name\" : \"---\",\n    \"street\" : \"---\",\n    \"postalCode\" : \"---\",\n    \"city\" : \"---\",\n    \"companyType\" : \"---\",\n    \"matchName\" : 3,\n    \"matchStreet\" : 3,\n    \"matchPostalCode\" : 3,\n    \"matchCity\" : 3,\n    \"matchCompanyType\" : 3\n  }\n}",
+    "erreur": null,
+    "statut": "invalide"
+  }
+]
